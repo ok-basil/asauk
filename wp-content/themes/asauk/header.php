@@ -26,6 +26,17 @@
 	<a class="skip-link screen-reader-text" href="#primary"><?php esc_html_e( 'Skip to content', 'asauk' ); ?></a>
 
 	<header id="masthead" class="site-header">
+		<div class="container" id="container">
+			<div class="site-wrapper">
+				<div class="top-nav" id="top-nav">
+					<ul>
+						<li><a href="#">Contact Us</a></li>
+						<li><a href="#">Member's Login</a></li>
+						<li><a href="#">Search</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
 		<div class="site-branding">
 			<?php
 			the_custom_logo();
