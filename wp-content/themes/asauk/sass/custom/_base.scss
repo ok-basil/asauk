@@ -1,0 +1,38 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+
+* {
+    outline: none;
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style: none;
+    
+    li {
+        list-style: none;
+    }
+}
+
+a {
+    text-decoration: none;
+}
+
+button {
+    border: none;
+    cursor: pointer;
+    background: none;
+}
+
+@mixin respond($breakpoint) {
+    @if $breakpoint == sm {
+        
+        @media only screen and (min-width: 40em) {
+            @content;
+        }
+        //640px
+    }
+}
