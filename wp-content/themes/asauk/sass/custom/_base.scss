@@ -1,3 +1,23 @@
+// Font variables and sizes
+
+$small-size: 12px;
+$primary-size: 14px;
+$secondary-size: 16px;
+$tertiary-size: 18px;
+$large-size: 36px;
+$larger-size: 48px;
+$largest-size: 72px;
+
+// Font colors and hex codes
+
+$primary: #FFF;
+$secondary: #000;
+$tertiary: #EF6D1D;
+$footer: #123234;
+$secondary-footer: #0B2B2D;
+
+// General Styling
+
 html {
     margin: 0;
     padding: 0;
@@ -32,6 +52,34 @@ button {
     border: none;
     cursor: pointer;
     background: none;
+}
+
+h1 {
+    font-size: $largest-size;
+}
+
+h2 {
+    font-size: $larger-size;
+}
+
+h3 {
+    font-size: $large-size;
+}
+
+h4 {
+    font-size: $tertiary-size;
+}
+
+h5 {
+    font-size: $secondary-size;
+}
+
+h6 {
+    font-size: $primary-size;
+}
+
+p {
+    font-size: $small-size;
 }
 
 @mixin respond($breakpoint) {

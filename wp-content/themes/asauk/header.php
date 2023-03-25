@@ -40,27 +40,29 @@
 			</div>
 			<div class="container" id="container">
 				<div class="site-wrapper">
-					<div class="site-branding">
-						<?php
-							the_custom_logo();
-						?>
-					</div><!-- .site-branding -->
+					<div class="menu-container">
+						<div class="site-branding">
+							<?php
+								the_custom_logo();
+							?>
+						</div><!-- .site-branding -->
 
-					<nav id="site-navigation" class="main-navigation">
-						<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false"><?php esc_html_e( 'Primary Menu', 'asauk' ); ?></button>
-						<?php
-							wp_nav_menu(
-								array(
-									'theme_location' 	=> 'primary-menu',
-									'container'			=> 'div',
-									'container_class'	=> 'navbar-list',
-									'container_id'		=> 'navbar-list',
-									'menu_id'        	=> 'primary-menu',
-									'items_wrap' 		=> '<ul class="menu-list">%3$s</ul'
-								)
-							);
-						?>
-					</nav><!-- #site-navigation -->
+						<nav id="site-navigation" class="main-navigation navbar">
+							<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false"><?php esc_html_e( 'Primary Menu', 'asauk' ); ?></button>
+							<?php
+								wp_nav_menu(
+									array(
+										'theme_location' 	=> 'primary-menu',
+										'container'			=> 'div',
+										'container_class'	=> 'navbar-list',
+										'container_id'		=> 'navbar-list',
+										'menu_id'        	=> 'primary-menu',
+										'items_wrap' 		=> '<ul class="menu-list">%3$s</ul'
+									)
+								);
+							?>
+						</nav><!-- #site-navigation -->
+					</div>
 				</div>		
 			</div>
 		</div>
