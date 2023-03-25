@@ -26,38 +26,42 @@
 	<a class="skip-link screen-reader-text" href="#primary"><?php esc_html_e( 'Skip to content', 'asauk' ); ?></a>
 
 	<header id="masthead" class="site-header">
-		<div class="container" id="container">
-			<div class="site-wrapper">
-				<div class="top-nav" id="top-nav">
-					<ul>
-						<li><a href="#">Contact Us</a></li>
-						<li><a href="#">Member's Login</a></li>
-						<li><a href="#">Search</a></li>
-					</ul>
+		<div class="nav-menu" id="nav-menu">
+			<div class="container" id="container">
+				<div class="site-wrapper">
+					<div class="top-nav" id="top-nav">
+						<ul>
+							<li><a href="#">Contact Us</a></li>
+							<li><a href="#">Member's Login</a></li>
+							<li><a href="#">Search</a></li>
+						</ul>
+					</div>
 				</div>
 			</div>
-		</div>
-		<div class="container" id="container">
-			<div class="site-branding">
-				<?php
-				the_custom_logo();
-				?>
-			</div><!-- .site-branding -->
+			<div class="container" id="container">
+				<div class="site-wrapper">
+					<div class="site-branding">
+						<?php
+							the_custom_logo();
+						?>
+					</div><!-- .site-branding -->
 
-			<nav id="site-navigation" class="main-navigation">
-				<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false"><?php esc_html_e( 'Primary Menu', 'asauk' ); ?></button>
-				<?php
-					wp_nav_menu(
-						array(
-							'theme_location' 	=> 'primary-menu',
-							'container'			=> 'div',
-							'container_class'	=> 'navbar-list',
-							'container_id'		=> 'navbar-list',
-							'menu_id'        	=> 'primary-menu',
-							'items_wrap' 		=> '<ul class="menu-list">%3$s</ul'
-						)
-					);
-				?>
-			</nav><!-- #site-navigation -->
+					<nav id="site-navigation" class="main-navigation">
+						<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false"><?php esc_html_e( 'Primary Menu', 'asauk' ); ?></button>
+						<?php
+							wp_nav_menu(
+								array(
+									'theme_location' 	=> 'primary-menu',
+									'container'			=> 'div',
+									'container_class'	=> 'navbar-list',
+									'container_id'		=> 'navbar-list',
+									'menu_id'        	=> 'primary-menu',
+									'items_wrap' 		=> '<ul class="menu-list">%3$s</ul'
+								)
+							);
+						?>
+					</nav><!-- #site-navigation -->
+				</div>		
+			</div>
 		</div>
 	</header><!-- #masthead -->
