@@ -295,13 +295,14 @@ p {
 	display: flex;
 	flex-direction: column;
 	margin: 0;
+	position: relative;
+	right: -70px;
 	width: 95%;
 }
 
 .second-section .secondary-wrapper .minor-container {
 	display: flex;
 	flex-direction: row;
-	right: -70px;
 	position: relative;
 }
 
