@@ -412,6 +412,33 @@ p {
 	width: 23%;
 }
 
+.second-section .secondary-wrapper .pillars .pillars-container .second-pillar span {
+	align-items: center;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	margin-top: 100px;
+}
+
+.second-section .secondary-wrapper .pillars .pillars-container .second-pillar span .item {
+	background-color: #FFF;
+	height: 24px;
+	width: 60px;
+}
+
+.second-section .secondary-wrapper .pillars .pillars-container .second-pillar span .item p {
+	color: #000;
+}
+
+.second-section .secondary-wrapper .pillars .pillars-container .second-pillar span span {
+	background-color: none;
+}
+
+.second-section .secondary-wrapper .pillars .pillars-container .second-pillar span span img {
+	height: auto;
+	object-fit: contain;
+}
+
 .second-section .secondary-wrapper .pillars .pillars-container .third-pillar {
 	width: 23%;
 }
