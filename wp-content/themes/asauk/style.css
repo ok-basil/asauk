@@ -337,15 +337,4 @@ p {
 	color: #FFF;
 }
 
-.second-section .secondary-wrapper .minor-container .second-div span {
-	display: flex;
-}
-
-.second-section .secondary-wrapper .minor-container .second-div span button {
-	align-items: center;
-	display: flex;
-	flex-direction: row;
-	gap: 10px;
-}
-
 /*# sourceMappingURL=style.css.map */
