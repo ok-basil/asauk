@@ -367,6 +367,7 @@ p {
 	display: flex;
 	flex-direction: column;
 	justify-content: space-between;
+	margin-top: 100px;
 	width: 96%;
 }
 
@@ -375,6 +376,7 @@ p {
 	flex-direction: row;
 	height: 234px;
 	justify-content: space-between;
+	margin-top: 30px;
 }
 
 .second-section .secondary-wrapper .pillars .pillars-container .first-pillar {
@@ -402,6 +404,7 @@ p {
 
 .second-section .secondary-wrapper .pillars .pillars-container .first-pillar span span {
 	background-color: none;
+	margin-right: 5px;
 }
 
 .second-section .secondary-wrapper .pillars .pillars-container .first-pillar span span img {
@@ -434,6 +437,7 @@ p {
 
 .second-section .secondary-wrapper .pillars .pillars-container .second-pillar span span {
 	background-color: none;
+	margin-right: 5px;
 }
 
 .second-section .secondary-wrapper .pillars .pillars-container .second-pillar span span img {
@@ -466,6 +470,7 @@ p {
 
 .second-section .secondary-wrapper .pillars .pillars-container .third-pillar span span {
 	background-color: none;
+	margin-right: 5px;
 }
 
 .second-section .secondary-wrapper .pillars .pillars-container .third-pillar span span img {
@@ -498,6 +503,7 @@ p {
 
 .second-section .secondary-wrapper .pillars .pillars-container .fourth-pillar span span {
 	background-color: none;
+	margin-right: 5px;
 }
 
 .second-section .secondary-wrapper .pillars .pillars-container .fourth-pillar span span img {

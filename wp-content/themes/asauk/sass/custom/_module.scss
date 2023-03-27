@@ -199,6 +199,7 @@
             display: flex;
             flex-direction: column;
             justify-content: space-between;
+            margin-top: 100px;
             width: 96%;
 
             .pillars-container {
@@ -206,6 +207,7 @@
                 flex-direction: row;
                 height: 234px;
                 justify-content: space-between;
+                margin-top: 30px;
 
                 .first-pillar {
                     width: 23%;
@@ -230,6 +232,8 @@
 
                         span {
                             background-color: none;
+                            margin-right: 5px;
+
                             img {
                                 height: auto;
                                 object-fit: contain;
@@ -261,6 +265,8 @@
 
                         span {
                             background-color: none;
+                            margin-right: 5px;
+
                             img {
                                 height: auto;
                                 object-fit: contain;
@@ -292,6 +298,8 @@
 
                         span {
                             background-color: none;
+                            margin-right: 5px;
+
                             img {
                                 height: auto;
                                 object-fit: contain;
@@ -323,6 +331,8 @@
 
                         span {
                             background-color: none;
+                            margin-right: 5px;
+                            
                             img {
                                 height: auto;
                                 object-fit: contain;
