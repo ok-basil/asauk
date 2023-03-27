@@ -33,13 +33,13 @@
                         <img src="" alt="">
                     </div>
                     <div class="second-div">
-                        <h2>What we do. Promoting Africa.</h2>
+                        <h2>What we do. Promoting Africa.</h2><br>
                         <h5>The Royal African Society is Britian's prime Africa organization. <br><br>
                             Our goal is to promote Africa in business, politics, culture or academia. We are a membership society that works to foster
                             better understanding and strong relationships between Britian, Africa and the world.<br><br>
                             Our in-depth knowledge of the continet and our collaborative approach to programmes and partnerships make us the first choice
                             for anyone who wants to engage, understand, celebrate or learn more about Africa.
-                        </h5>
+                        </h5><br>
                         <span>
                             <button>
                                 <h6>KNOW MORE</h6>

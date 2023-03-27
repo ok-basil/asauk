@@ -128,12 +128,12 @@
         display: flex;
         flex-direction: column;
         margin: 0;
-        width: 90%;
+        width: 95%;
 
         .minor-container {
             display: flex;
             flex-direction: row;
-            right: -100px;
+            right: -70px;
             position: relative;
 
             .first-div {
@@ -151,20 +151,45 @@
                 flex-direction: column;
                 left: -40px;
                 padding-bottom: 9px;
-                padding-left: 100px;
+                padding-left: 80px;
                 padding-right: 100px;
                 padding-top: 26px;
                 position: relative;
                 top: -45px;
-                width: 60%;
+                width: 67%;
 
                 h2 {
                     color: $primary;
-                    width: 50%;
+                    width: 64%;
                 }
 
                 h5 {
                     color: $primary;
+                    width: 107%;
+                }
+                
+                span {
+                    align-items: center;
+                    display: flex;
+                    justify-content: center;
+                    width: 106px;
+
+                    button {
+                        align-items: center;
+                        border: 1.5px solid $primary;
+                        border-radius: 80px;
+                        display: flex;
+                        flex-direction: row;
+                        gap: 10px;
+                        margin-left: 66px;
+
+                        h6 {
+                            color: $primary;
+                            line-height: 33.94px;
+                            margin-left: 17px;
+                            width: 100%;
+                        }
+                    }
                 }
             }
         }

@@ -295,13 +295,13 @@ p {
 	display: flex;
 	flex-direction: column;
 	margin: 0;
-	width: 90%;
+	width: 95%;
 }
 
 .second-section .secondary-wrapper .minor-container {
 	display: flex;
 	flex-direction: row;
-	right: -100px;
+	right: -70px;
 	position: relative;
 }
 
@@ -320,21 +320,46 @@ p {
 	flex-direction: column;
 	left: -40px;
 	padding-bottom: 9px;
-	padding-left: 100px;
+	padding-left: 80px;
 	padding-right: 100px;
 	padding-top: 26px;
 	position: relative;
 	top: -45px;
-	width: 60%;
+	width: 67%;
 }
 
 .second-section .secondary-wrapper .minor-container .second-div h2 {
 	color: #FFF;
-	width: 50%;
+	width: 64%;
 }
 
 .second-section .secondary-wrapper .minor-container .second-div h5 {
 	color: #FFF;
+	width: 107%;
+}
+
+.second-section .secondary-wrapper .minor-container .second-div span {
+	align-items: center;
+	display: flex;
+	justify-content: center;
+	width: 106px;
+}
+
+.second-section .secondary-wrapper .minor-container .second-div span button {
+	align-items: center;
+	border: 1.5px solid #FFF;
+	border-radius: 80px;
+	display: flex;
+	flex-direction: row;
+	gap: 10px;
+	margin-left: 66px;
+}
+
+.second-section .secondary-wrapper .minor-container .second-div span button h6 {
+	color: #FFF;
+	line-height: 33.94px;
+	margin-left: 17px;
+	width: 100%;
 }
 
 /*# sourceMappingURL=style.css.map */
