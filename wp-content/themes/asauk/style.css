@@ -363,4 +363,25 @@ p {
 	width: 100%;
 }
 
+.second-section .secondary-wrapper .pillars {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.second-section .secondary-wrapper .pillars .pillars-container {
+	display: flex;
+	flex-direction: row;
+	height: 234px;
+	justify-content: space-between;
+}
+
+.second-section .secondary-wrapper .pillars .pillars-container .first-pillar {
+	width: 23%;
+}
+
+.second-section .secondary-wrapper .pillars .pillars-container .second-pillar {
+	width: 23%;
+}
+
 /*# sourceMappingURL=style.css.map */

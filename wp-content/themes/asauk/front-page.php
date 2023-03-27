@@ -48,19 +48,41 @@
                         </span>
                     </div>
                 </div>
-                <div>
+                <div class="pillars" id="pillars">
                     <h2>Our Pillars</h2>
-                    <div></div>
-                    <div></div>
-                    <div></div>
-                    <div></div>
+                    <div class="pillars-container" id="pillars-container">
+                        <div class="first-pillar" id="first-pillar" style="background-image: url('<?php echo get_template_directory_uri(); ?> /assets/img/connect.png')">
+                            <span>
+                                <span><p>Connect</p></span>
+                                <span><img src="<?php echo get_template_directory_uri()?> /assets/icons/vector.png" alt="vector"></span>
+                            </span>
+                        </div>
+                        <div class="second-pillar" id="second-pillar" style="background-image: url('<?php echo get_template_directory_uri(); ?> /assets/img/learn.png')">
+                            <span>
+                                <span><p>Learn</p></span>
+                                <span><img src="<?php echo get_template_directory_uri()?> /assets/icons/vector.png" alt="vector"></span>
+                            </span>
+                        </div>
+                        <div class="third-pillar" id="third-pillar" style="background-image: url('<?php echo get_template_directory_uri(); ?> /assets/img/debate.png')">
+                            <span>
+                                <span><p>Debate</p></span>
+                                <span><img src="<?php echo get_template_directory_uri()?> /assets/icons/vector.png" alt="vector"></span>
+                            </span>
+                        </div>
+                        <div class="fourth-pillar" id="fourth-pillar" style="background-image: url('<?php echo get_template_directory_uri(); ?> /assets/img/celebrate.png')">
+                            <span>
+                                <span><p>Celebrate</p></span>
+                                <span><img src="<?php echo get_template_directory_uri()?> /assets/icons/vector.png" alt="vector"></span>
+                            </span>
+                        </div>
+                    </div>
                 </div>
-                <div>
+                <div class="events" id="events">
                     <h2>Events</h2>
                     <div></div>
                     <div></div>
                 </div>
-                <div>
+                <div class="news" id="news">
                     <h2>Latest News</h2>
                     <div></div>
                     <div></div>

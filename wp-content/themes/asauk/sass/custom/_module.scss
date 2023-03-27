@@ -194,5 +194,26 @@
                 }
             }
         }
+
+        .pillars {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+
+            .pillars-container {
+                display: flex;
+                flex-direction: row;
+                height: 234px;
+                justify-content: space-between;
+
+                .first-pillar {
+                    width: 23%;
+                }
+
+                .second-pillar {
+                    width: 23%;
+                }
+            }
+        }
     }
 }
