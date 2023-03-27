@@ -397,6 +397,7 @@ p {
 
 .second-section .secondary-wrapper .pillars .pillars-container .first-pillar span .item p {
 	color: #000;
+	margin-left: 2px;
 }
 
 .second-section .secondary-wrapper .pillars .pillars-container .first-pillar span span {
@@ -423,11 +424,12 @@ p {
 .second-section .secondary-wrapper .pillars .pillars-container .second-pillar span .item {
 	background-color: #FFF;
 	height: 24px;
-	width: 60px;
+	width: 40px;
 }
 
 .second-section .secondary-wrapper .pillars .pillars-container .second-pillar span .item p {
 	color: #000;
+	margin-left: 2px;
 }
 
 .second-section .secondary-wrapper .pillars .pillars-container .second-pillar span span {
@@ -454,11 +456,12 @@ p {
 .second-section .secondary-wrapper .pillars .pillars-container .third-pillar span .item {
 	background-color: #FFF;
 	height: 24px;
-	width: 60px;
+	width: 50px;
 }
 
 .second-section .secondary-wrapper .pillars .pillars-container .third-pillar span .item p {
 	color: #000;
+	margin-left: 2px;
 }
 
 .second-section .secondary-wrapper .pillars .pillars-container .third-pillar span span {
@@ -485,11 +488,12 @@ p {
 .second-section .secondary-wrapper .pillars .pillars-container .fourth-pillar span .item {
 	background-color: #FFF;
 	height: 24px;
-	width: 60px;
+	width: 64px;
 }
 
 .second-section .secondary-wrapper .pillars .pillars-container .fourth-pillar span .item p {
 	color: #000;
+	margin-left: 2px;
 }
 
 .second-section .secondary-wrapper .pillars .pillars-container .fourth-pillar span span {
