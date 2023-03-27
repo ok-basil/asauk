@@ -295,7 +295,7 @@ p {
 	display: flex;
 	flex-direction: column;
 	margin: 0;
-	width: 80%;
+	width: 90%;
 }
 
 .second-section .secondary-wrapper .minor-container {
@@ -309,16 +309,23 @@ p {
 	background-repeat: no-repeat;
 	background-size: cover;
 	display: flex;
-	width: 100%;
+	height: 654px;
+	width: 65%;
+	z-index: 1;
 }
 
 .second-section .secondary-wrapper .minor-container .second-div {
 	background-color: #EF6D1D;
 	display: flex;
 	flex-direction: column;
-	padding: 10px;
+	left: -40px;
+	padding-bottom: 9px;
+	padding-left: 100px;
+	padding-right: 100px;
+	padding-top: 26px;
 	position: relative;
 	top: -45px;
+	width: 60%;
 }
 
 .second-section .secondary-wrapper .minor-container .second-div h2 {
@@ -328,6 +335,17 @@ p {
 
 .second-section .secondary-wrapper .minor-container .second-div h5 {
 	color: #FFF;
+}
+
+.second-section .secondary-wrapper .minor-container .second-div span {
+	display: flex;
+}
+
+.second-section .secondary-wrapper .minor-container .second-div span button {
+	align-items: center;
+	display: flex;
+	flex-direction: row;
+	gap: 10px;
 }
 
 /*# sourceMappingURL=style.css.map */
