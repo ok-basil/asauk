@@ -71,7 +71,7 @@
                         </div>
                         <div class="fourth-pillar" id="fourth-pillar" style="background-image: url('<?php echo get_template_directory_uri(); ?> /assets/img/celebrate.png')">
                             <span>
-                                <span><p>Celebrate</p></span>
+                                <span class="item"><p>Celebrate</p></span>
                                 <span><img src="<?php echo get_template_directory_uri()?> /assets/icons/vector.png" alt="vector"></span>
                             </span>
                         </div>
