@@ -166,14 +166,24 @@ p {
 }
 
 .container {
-	width: 100%;
 	display: flex;
+	width: 100%;
 }
 
 .nav-menu {
 	display: flex;
 	flex-direction: column;
 	margin-top: 2%;
+	width: 100%;
+}
+
+.nav-menu .new-container {
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: flex;
+	height: 614px;
+	margin-top: 15px;
+	position: relative;
 	width: 100%;
 }
 
@@ -204,7 +214,8 @@ p {
 	align-items: center;
 	display: flex;
 	justify-content: space-between;
-	margin-top: 3%;
+	margin-top: -25%;
+	position: relative;
 	width: 100%;
 }
 
@@ -212,7 +223,7 @@ p {
 	align-items: center;
 	display: flex;
 	justify-content: space-between;
-	width: 67%;
+	width: 68%;
 }
 
 @media only screen and (min-width: 40em) {
@@ -239,6 +250,83 @@ p {
 }
 
 .nav-menu .menu-container .navbar .navbar-list .menu-list li a {
+	color: #FFF;
+}
+
+.first-section {
+	width: 100%;
+}
+
+.first-section .wrapper {
+	display: flex;
+	flex-direction: column;
+	margin-left: 80px;
+	margin-top: -43%;
+	position: relative;
+	width: 50%;
+}
+
+.first-section .wrapper h1 {
+	color: #FFF;
+}
+
+.first-section .wrapper span {
+	background-color: #EF6D1D;
+	border-radius: 80px;
+	display: flex;
+	justify-content: center;
+	margin-top: 20px;
+	width: 220px;
+}
+
+.first-section .wrapper span button {
+	align-items: center;
+	display: flex;
+	flex-direction: row;
+	gap: 10px;
+}
+
+.first-section .wrapper span button p {
+	color: #FFF;
+	line-height: 40px;
+}
+
+.second-section .secondary-wrapper {
+	display: flex;
+	flex-direction: column;
+	margin: 0;
+	width: 80%;
+}
+
+.second-section .secondary-wrapper .minor-container {
+	display: flex;
+	flex-direction: row;
+	right: -100px;
+	position: relative;
+}
+
+.second-section .secondary-wrapper .minor-container .first-div {
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: flex;
+	width: 100%;
+}
+
+.second-section .secondary-wrapper .minor-container .second-div {
+	background-color: #EF6D1D;
+	display: flex;
+	flex-direction: column;
+	padding: 10px;
+	position: relative;
+	top: -45px;
+}
+
+.second-section .secondary-wrapper .minor-container .second-div h2 {
+	color: #FFF;
+	width: 50%;
+}
+
+.second-section .secondary-wrapper .minor-container .second-div h5 {
 	color: #FFF;
 }
 

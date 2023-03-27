@@ -38,7 +38,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="container" id="container">
+			<div class="new-container" id="new-container" style="background-image: url('<?php echo get_template_directory_uri(); ?> /assets/img/main-background.png')">
 				<div class="site-wrapper">
 					<div class="menu-container">
 						<div class="site-branding">

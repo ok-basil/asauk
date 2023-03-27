@@ -6,6 +6,16 @@
     margin-top: 2%;
     width: 100%;
 
+    .new-container {
+        background-repeat: no-repeat;
+        background-size: cover;
+        display: flex;
+        height: 614px;
+        margin-top: 15px;
+        position: relative;
+        width: 100%;
+    }
+
     .top-nav {
         align-items: center;
         display: flex;
@@ -33,14 +43,15 @@
         align-items: center;
         display: flex;
         justify-content: space-between;
-        margin-top: 3%;
+        margin-top: -25%;
+        position: relative;
         width: 100%;
 
         .navbar {
             align-items: center;
             display: flex;
             justify-content: space-between;
-            width: 67%;
+            width: 68%;
 
             @include respond(sm) {
                 .menu-toggle {
@@ -72,3 +83,83 @@
     }
 }
 
+// FRONT PAGE STYLE
+
+.first-section {
+    width: 100%;
+
+    .wrapper {
+        display: flex;
+        flex-direction: column;
+        margin-left: 80px;
+        margin-top: -43%;
+        position: relative;
+        width: 50%;
+
+        h1 {
+            color: $primary;
+        }
+
+        span {
+            background-color: $tertiary;
+            border-radius: 80px;
+            display: flex;
+            justify-content: center;
+            margin-top: 20px;
+            width: 220px;
+
+            button {
+                align-items: center;
+                display: flex;
+                flex-direction: row;
+                gap: 10px;
+
+                p {
+                    color: $primary;
+                    line-height: 40px;
+                }
+            }
+        }
+    }
+}
+
+.second-section {
+    .secondary-wrapper {
+        display: flex;
+        flex-direction: column;
+        margin: 0;
+        width: 80%;
+
+        .minor-container {
+            display: flex;
+            flex-direction: row;
+            right: -100px;
+            position: relative;
+
+            .first-div {
+                background-repeat: no-repeat;
+                background-size: cover;
+                display: flex;
+                width: 100%;
+            }
+
+            .second-div {
+                background-color: $tertiary;
+                display: flex;
+                flex-direction: column;
+                padding: 10px;
+                position: relative;
+                top: -45px;
+
+                h2 {
+                    color: $primary;
+                    width: 50%;
+                }
+
+                h5 {
+                    color: $primary;
+                }
+            }
+        }
+    }
+}
