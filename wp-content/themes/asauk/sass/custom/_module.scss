@@ -209,6 +209,32 @@
 
                 .first-pillar {
                     width: 23%;
+
+                    span { 
+                        align-items: center;
+                        display: flex;
+                        flex-direction: row;
+                        justify-content: space-between;
+                        margin-top: 100px;
+
+                        .item {
+                            background-color: $primary;
+                            height: 24px;
+                            width: 60px;
+
+                            p{
+                                color: $secondary;
+                            }
+                        }
+
+                        span {
+                            background-color: none;
+                            img {
+                                height: auto;
+                                object-fit: contain;
+                            }
+                        }
+                    }
                 }
 
                 .second-pillar {

@@ -53,7 +53,7 @@
                     <div class="pillars-container" id="pillars-container">
                         <div class="first-pillar" id="first-pillar" style="background-image: url('<?php echo get_template_directory_uri(); ?> /assets/img/connect.png')">
                             <span>
-                                <span><p>Connect</p></span>
+                                <span class="item"><p>Connect</p></span>
                                 <span><img src="<?php echo get_template_directory_uri()?> /assets/icons/vector.png" alt="vector"></span>
                             </span>
                         </div>
