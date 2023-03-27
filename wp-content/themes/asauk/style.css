@@ -367,6 +367,7 @@ p {
 	display: flex;
 	flex-direction: column;
 	justify-content: space-between;
+	width: 96%;
 }
 
 .second-section .secondary-wrapper .pillars .pillars-container {
