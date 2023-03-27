@@ -59,13 +59,13 @@
                         </div>
                         <div class="second-pillar" id="second-pillar" style="background-image: url('<?php echo get_template_directory_uri(); ?> /assets/img/learn.png')">
                             <span>
-                                <span><p>Learn</p></span>
+                                <span class="item"><p>Learn</p></span>
                                 <span><img src="<?php echo get_template_directory_uri()?> /assets/icons/vector.png" alt="vector"></span>
                             </span>
                         </div>
                         <div class="third-pillar" id="third-pillar" style="background-image: url('<?php echo get_template_directory_uri(); ?> /assets/img/debate.png')">
                             <span>
-                                <span><p>Debate</p></span>
+                                <span class="item"><p>Debate</p></span>
                                 <span><img src="<?php echo get_template_directory_uri()?> /assets/icons/vector.png" alt="vector"></span>
                             </span>
                         </div>
