@@ -511,4 +511,20 @@ p {
 	object-fit: contain;
 }
 
+.second-section .secondary-wrapper .events {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	margin-top: 100px;
+	width: 96%;
+}
+
+.second-section .secondary-wrapper .events .events-container {
+	display: flex;
+	flex-direction: row;
+	height: 399px;
+	justify-content: space-between;
+	margin-top: 30px;
+}
+
 /*# sourceMappingURL=style.css.map */

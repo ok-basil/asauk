@@ -79,8 +79,29 @@
                 </div>
                 <div class="events" id="events">
                     <h2>Events</h2>
-                    <div></div>
-                    <div></div>
+                    <div class="events-container">
+                        <div class="first-event" id="first-event" style="background-image: url('<?php echo get_template_directory_uri(); ?> /assets/img/events-1.png')">
+                            <div>
+                                <span><h6>When-30/05/19</h6></span>
+                                <span><h6>Volunteering</h6></span>
+                            </div>
+                            <div>
+                                <h3>South Africa Pre-election Briefing</h3>
+                                <h6>Eget nulla facilisi etiam dignissim diam quis enim lobortis scelerisque. Eu feugiat pretium nibh ipsum consequat nisl vel pretium. Eget nulla facilisi etiam dignissim diam quis enim.</h6>
+                                <span><button><h4>READ MORE</h4></button></span>
+                            </div>
+                        </div>
+                        <div class="second-event" id="second-event" style="background-image: url('<?php echo get_template_directory_uri(); ?> /assets/img/events-2.png')">
+                            <div>
+                                <span><h6>When-30/05/19</h6></span>
+                                <span><h6>Volunteering</h6></span>
+                            </div>
+                            <div>
+                                <h3>South Africa Pre-election Briefing</h3>
+                                <span><button><h4>READ MORE</h4></button></span>
+                            </div>
+                        </div>
+                    </div>
                 </div>
                 <div class="news" id="news">
                     <h2>Latest News</h2>
