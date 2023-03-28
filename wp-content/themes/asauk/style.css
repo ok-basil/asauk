@@ -527,4 +527,14 @@ p {
 	margin-top: 30px;
 }
 
+.second-section .secondary-wrapper .events .events-container .first-event {
+	display: flex;
+	flex-direction: column;
+}
+
+.second-section .secondary-wrapper .events .events-container .second-event {
+	display: flex;
+	flex-direction: column;
+}
+
 /*# sourceMappingURL=style.css.map */

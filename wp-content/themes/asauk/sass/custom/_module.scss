@@ -358,11 +358,13 @@
                 margin-top: 30px;
 
                 .first-event {
-
+                    display: flex;
+                    flex-direction: column;
                 }
 
                 .second-event {
-                    
+                    display: flex;
+                    flex-direction: column;
                 }
             }
         }
