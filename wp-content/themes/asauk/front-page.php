@@ -87,7 +87,7 @@
                             </div>
                             <div>
                                 <h3>South Africa Pre-election Briefing</h3>
-                                <h6> Eget nulla facilisi etiam dignissim diam quis enim lobortis scelerisque. Eu feugiat pretium nibh ipsum consequat nisl vel pretium. Eget nulla facilisi etiam dignissim diam quis enim.</h6>
+                                <h6> Eget nullad facilisi etiam dignissim diam quis enim lobortis scelerisque. Eu feugiat pretium nibh ipsum consequat nisl vel pretium. Eget nulla facilisi etiam dignissim diam quis enim.</h6>
                                 <span><button><h4>READ MORE</h4></button></span>
                             </div>
                         </div>
