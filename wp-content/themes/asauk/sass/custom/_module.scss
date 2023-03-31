@@ -360,6 +360,12 @@
                 .first-event {
                     display: flex;
                     flex-direction: column;
+
+                    .first-half {
+                        display: flex;
+                        flex-direction: row;
+                        justify-content: space-between;
+                    }
                 }
 
                 .second-event {

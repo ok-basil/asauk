@@ -532,6 +532,12 @@ p {
 	flex-direction: column;
 }
 
+.second-section .secondary-wrapper .events .events-container .first-event .first-half {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
 .second-section .secondary-wrapper .events .events-container .second-event {
 	display: flex;
 	flex-direction: column;
