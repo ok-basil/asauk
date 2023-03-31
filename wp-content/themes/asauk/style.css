@@ -538,6 +538,27 @@ p {
 	justify-content: space-between;
 }
 
+.second-section .secondary-wrapper .events .events-container .first-event .first-half h6 {
+	color: #FFF;
+}
+
+.second-section .secondary-wrapper .events .events-container .first-event .second-half {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	width: 60%;
+}
+
+.second-section .secondary-wrapper .events .events-container .first-event .second-half h3 {
+	color: #FFF;
+	width: 100%;
+}
+
+.second-section .secondary-wrapper .events .events-container .first-event .second-half h6 {
+	color: #FFF;
+	width: 84%;
+}
+
 .second-section .secondary-wrapper .events .events-container .second-event {
 	display: flex;
 	flex-direction: column;

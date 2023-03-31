@@ -86,7 +86,7 @@
                                 <span><h6>Volunteering</h6></span>
                             </div>
                             <div class="second-half" id="second-half">
-                                <h3>South Africa Pre-election Briefing</h3>
+                                <h3>South Africa <br> Pre-election Briefing</h3>
                                 <h6> Eget nulla facilisi etiam dignissim diam quis enim lobortis scelerisque. Eu feugiat pretium nibh ipsum consequat nisl vel pretium. Eget nulla facilisi etiam dignissim diam quis enim.</h6>
                                 <span><button><h4>READ MORE</h4></button></span>
                             </div>
