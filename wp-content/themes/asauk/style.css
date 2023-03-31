@@ -559,6 +559,24 @@ p {
 	width: 84%;
 }
 
+.second-section .secondary-wrapper .events .events-container .first-event .second-half span {
+	display: flex;
+	justify-content: center;
+	width: 137px;
+}
+
+.second-section .secondary-wrapper .events .events-container .first-event .second-half span button {
+	align-items: center;
+	border: 2px solid #FFF;
+	border-radius: 36px;
+	width: 100%;
+}
+
+.second-section .secondary-wrapper .events .events-container .first-event .second-half span button h4 {
+	color: #FFF;
+	line-height: 30px;
+}
+
 .second-section .secondary-wrapper .events .events-container .second-event {
 	display: flex;
 	flex-direction: column;
