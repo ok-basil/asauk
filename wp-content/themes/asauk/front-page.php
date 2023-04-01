@@ -92,9 +92,9 @@
                             </div>
                         </div>
                         <div class="second-event" id="second-event" style="background-image: url('<?php echo get_template_directory_uri(); ?> /assets/img/events-2.png')">
-                            <div>
+                            <div class="">
                                 <span><h6>When-30/05/19</h6></span>
-                                <span><h6>Volunteering</h6></span>
+                                <span><h6>Fund Raiser</h6></span>
                             </div>
                             <div>
                                 <h3>South Africa Pre-election Briefing</h3>
