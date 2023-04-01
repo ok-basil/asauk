@@ -366,6 +366,10 @@
                         flex-direction: row;
                         justify-content: space-between;
 
+                        .date {
+                            width: 64px;
+                        }
+
                         h6 {
                             color: $primary;
                         }
@@ -416,6 +420,14 @@
                         flex-direction: row;
                         justify-content: space-between;
 
+                        .date {
+                            width: 64px;
+                        }
+
+                        span {
+                            width: 40px;
+                        }
+                        
                         h6 {
                             color: $primary;
                         }

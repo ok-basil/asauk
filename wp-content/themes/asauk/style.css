@@ -538,6 +538,10 @@ p {
 	justify-content: space-between;
 }
 
+.second-section .secondary-wrapper .events .events-container .first-event .first-half .date {
+	width: 64px;
+}
+
 .second-section .secondary-wrapper .events .events-container .first-event .first-half h6 {
 	color: #FFF;
 }
@@ -586,6 +590,14 @@ p {
 	display: flex;
 	flex-direction: row;
 	justify-content: space-between;
+}
+
+.second-section .secondary-wrapper .events .events-container .second-event .first-part .date {
+	width: 64px;
+}
+
+.second-section .secondary-wrapper .events .events-container .second-event .first-part span {
+	width: 40px;
 }
 
 .second-section .secondary-wrapper .events .events-container .second-event .first-part h6 {
