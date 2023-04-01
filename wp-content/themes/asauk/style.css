@@ -604,4 +604,22 @@ p {
 	width: 100%;
 }
 
+.second-section .secondary-wrapper .events .events-container .second-event .second-part span {
+	display: flex;
+	justify-content: center;
+	width: 137px;
+}
+
+.second-section .secondary-wrapper .events .events-container .second-event .second-part span button {
+	align-items: center;
+	border: 2px solid #FFF;
+	border-radius: 36px;
+	width: 100%;
+}
+
+.second-section .secondary-wrapper .events .events-container .second-event .second-part span button h4 {
+	color: #FFF;
+	line-height: 30px;
+}
+
 /*# sourceMappingURL=style.css.map */

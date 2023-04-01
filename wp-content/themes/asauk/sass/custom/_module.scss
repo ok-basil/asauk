@@ -432,7 +432,23 @@
                             width: 100%;
                         }
 
-                        
+                        span {
+                            display: flex;
+                            justify-content: center;
+                            width: 137px;
+
+                            button {
+                                align-items: center;
+                                border: 2px solid $primary;
+                                border-radius: 36px;
+                                width: 100%;
+
+                                h4 {
+                                    color: $primary;
+                                    line-height: 30px;
+                                }
+                            }
+                        }
                     }
                 }
             }
