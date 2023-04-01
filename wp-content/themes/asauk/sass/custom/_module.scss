@@ -410,6 +410,30 @@
                 .second-event {
                     display: flex;
                     flex-direction: column;
+
+                    .first-part {
+                        display: flex;
+                        flex-direction: row;
+                        justify-content: space-between;
+
+                        h6 {
+                            color: $primary;
+                        }
+                    }
+
+                    .second-part {
+                        display: flex;
+                        flex-direction: column;
+                        justify-content: space-between;
+                        width: 60%;
+
+                        h3 {
+                            color: $primary;
+                            width: 100%;
+                        }
+
+                        
+                    }
                 }
             }
         }
