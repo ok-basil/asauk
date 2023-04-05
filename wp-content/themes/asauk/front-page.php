@@ -87,7 +87,7 @@
                             </div>
                             <div class="second-half" id="second-half">
                                 <h3>South Africa <br> Pre-election Briefing</h3>
-                                <h6> Eget nulla facilisi etiam dignissim diam quis enim lobortis scelerisque. Eu feugiat pretium nibh ipsum consequat nisl vel pretium. Eget nulla facilisi etiam dignissim diam quis enim.</h6>
+                                <h6> I haven't been doing a lot of work recently and that feels not right. That'll change soon enough. Eget nulla facilisi etiam dignissim diam quis enim lobortis scelerisque. Eu feugiat pretium nibh ipsum consequat nisl vel pretium. Eget nulla facilisi etiam dignissim diam quis enim.</h6>
                                 <span><button><h4>READ MORE</h4></button></span>
                             </div>
                         </div>
