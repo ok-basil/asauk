@@ -555,12 +555,13 @@ p {
 	flex-direction: column;
 	justify-content: space-between;
 	margin-left: 40px;
-	margin-top: -10px;
+	margin-top: -5px;
 	width: 55%;
 }
 
 .second-section .secondary-wrapper .events .events-container .first-event .second-half h3 {
 	color: #FFF;
+	line-height: 38.7px;
 	width: 104%;
 }
 
