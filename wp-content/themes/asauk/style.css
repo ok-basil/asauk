@@ -538,7 +538,8 @@ p {
 .second-section .secondary-wrapper .events .events-container .first-event .first-half {
 	display: flex;
 	flex-direction: row;
-	justify-content: space-between;
+	gap: 390px;
+	margin-left: 40px;
 }
 
 .second-section .secondary-wrapper .events .events-container .first-event .first-half .date {
