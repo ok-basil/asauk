@@ -554,6 +554,8 @@ p {
 	display: flex;
 	flex-direction: column;
 	justify-content: space-between;
+	margin-left: 40px;
+	margin-top: -10px;
 	width: 55%;
 }
 
@@ -564,7 +566,8 @@ p {
 
 .second-section .secondary-wrapper .events .events-container .first-event .second-half h6 {
 	color: #FFF;
-	width: 84%;
+	margin-top: 10px;
+	width: 100%;
 }
 
 .second-section .secondary-wrapper .events .events-container .first-event .second-half span {
