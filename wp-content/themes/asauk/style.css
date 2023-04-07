@@ -529,6 +529,7 @@ p {
 }
 
 .second-section .secondary-wrapper .events .events-container .first-event {
+	background-repeat: no-repeat;
 	display: flex;
 	flex-direction: column;
 	padding: 27px;
@@ -584,6 +585,7 @@ p {
 }
 
 .second-section .secondary-wrapper .events .events-container .second-event {
+	background-repeat: no-repeat;
 	display: flex;
 	flex-direction: column;
 	padding: 24px;
@@ -592,7 +594,8 @@ p {
 .second-section .secondary-wrapper .events .events-container .second-event .first-part {
 	display: flex;
 	flex-direction: row;
-	justify-content: space-between;
+	gap: 142px;
+	margin-left: 25px;
 }
 
 .second-section .secondary-wrapper .events .events-container .second-event .first-part .date {
@@ -611,6 +614,7 @@ p {
 	display: flex;
 	flex-direction: column;
 	justify-content: space-between;
+	margin-left: 25px;
 	width: 60%;
 }
 
