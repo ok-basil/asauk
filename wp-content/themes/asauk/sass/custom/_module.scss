@@ -492,6 +492,30 @@
             .news-container{
                 display: flex;
                 flex-direction: row;
+                justify-content: space-between;
+
+                .news-items {
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: space-between;
+                    width: 100%;
+
+                    .news-one {
+                        @extend .news-section-container;
+                    }
+
+                    .news-two {                        
+                        @extend .news-section-container;
+                    }
+
+                    .news-three {
+                        @extend .news-section-container;
+                    }
+
+                    .news-four {
+                        @extend .news-section-container;
+                    }
+                }
             }
         }
     }
