@@ -533,6 +533,7 @@ p {
 	display: flex;
 	flex-direction: column;
 	padding: 27px;
+	padding-top: 65px;
 }
 
 .second-section .secondary-wrapper .events .events-container .first-event .first-half {
@@ -567,14 +568,15 @@ p {
 
 .second-section .secondary-wrapper .events .events-container .first-event .second-half h6 {
 	color: #FFF;
-	margin-top: 10px;
+	margin-top: 15px;
 	width: 100%;
 }
 
 .second-section .secondary-wrapper .events .events-container .first-event .second-half span {
 	display: flex;
 	justify-content: center;
-	width: 137px;
+	margin-top: 13px;
+	width: 150px;
 }
 
 .second-section .secondary-wrapper .events .events-container .first-event .second-half span button {
@@ -586,7 +588,7 @@ p {
 
 .second-section .secondary-wrapper .events .events-container .first-event .second-half span button h4 {
 	color: #FFF;
-	line-height: 30px;
+	line-height: 40px;
 }
 
 .second-section .secondary-wrapper .events .events-container .second-event {
@@ -633,7 +635,7 @@ p {
 	display: flex;
 	justify-content: center;
 	margin-top: 30px;
-	width: 137px;
+	width: 150px;
 }
 
 .second-section .secondary-wrapper .events .events-container .second-event .second-part span button {
@@ -645,7 +647,7 @@ p {
 
 .second-section .secondary-wrapper .events .events-container .second-event .second-part span button h4 {
 	color: #FFF;
-	line-height: 30px;
+	line-height: 40px;
 }
 
 /*# sourceMappingURL=style.css.map */
