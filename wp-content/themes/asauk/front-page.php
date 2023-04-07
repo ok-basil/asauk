@@ -105,10 +105,12 @@
                 </div>
                 <div class="news" id="news">
                     <h2>Latest News</h2>
-                    <div></div>
-                    <div></div>
-                    <div></div>
-                    <div></div>
+                    <div class="news-container">
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                    </div>
                 </div>
                 <div>
                     <div></div>

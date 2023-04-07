@@ -650,4 +650,17 @@ p {
 	line-height: 40px;
 }
 
+.second-section .secondary-wrapper .news {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	margin-top: 100px;
+	width: 96%;
+}
+
+.second-section .secondary-wrapper .news .news-container {
+	display: flex;
+	flex-direction: row;
+}
+
 /*# sourceMappingURL=style.css.map */

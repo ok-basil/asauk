@@ -481,5 +481,18 @@
                 }
             }
         }
+
+        .news {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            margin-top: 100px;
+            width: 96%;
+
+            .news-container{
+                display: flex;
+                flex-direction: row;
+            }
+        }
     }
 }
