@@ -107,19 +107,25 @@
                     <h2>Latest News</h2>
                     <div class="news-container">
                         <div class="news-items" id="news-items">
-                            <div class="news-one" id="news-one"></div>
+                            <div class="news-one" id="news-one" style="background-image: url('<?php echo get_template_directory_uri(); ?> /assets/img/news-1.png')">
+                                <span class="">RAS News</span>
+                            </div>
+                            <div>
+                                <span><h4>Key findings from Parliamentary meeting on UK VISA refusals for African Visitors to the UK</h4></span>
+                                <span></span>
+                                <span></span>
+                            </div>
+                        </div>
+                        <div class="news-items" id="news-items">
+                            <div class="news-two" id="news-two" style="background-image: url('<?php echo get_template_directory_uri(); ?> /assets/img/news-2.png')"></div>
                             <div></div>
                         </div>
                         <div class="news-items" id="news-items">
-                            <div class="news-two" id="news-two"></div>
+                            <div class="news-three" id="news-three"  style="background-image: url('<?php echo get_template_directory_uri(); ?> /assets/img/news-3.png')"></div>
                             <div></div>
                         </div>
                         <div class="news-items" id="news-items">
-                            <div class="news-three" id="news-three"></div>
-                            <div></div>
-                        </div>
-                        <div class="news-items" id="news-items">
-                            <div class="news-four" id="news-four"></div>
+                            <div class="news-four" id="news-four" style="background-image: url('<?php echo get_template_directory_uri(); ?> /assets/img/news-4.png')"></div>
                             <div></div>
                         </div>
                     </div>
