@@ -589,6 +589,7 @@ p {
 	display: flex;
 	flex-direction: column;
 	padding: 24px;
+	padding-top: 65px;
 }
 
 .second-section .secondary-wrapper .events .events-container .second-event .first-part {
