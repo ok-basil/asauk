@@ -626,6 +626,7 @@ p {
 .second-section .secondary-wrapper .events .events-container .second-event .second-part span {
 	display: flex;
 	justify-content: center;
+	margin-top: 30px;
 	width: 137px;
 }
 
