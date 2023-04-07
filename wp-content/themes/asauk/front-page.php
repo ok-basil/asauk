@@ -106,10 +106,22 @@
                 <div class="news" id="news">
                     <h2>Latest News</h2>
                     <div class="news-container">
-                        <div></div>
-                        <div></div>
-                        <div></div>
-                        <div></div>
+                        <div class="news-items" id="news-items">
+                            <div class="news-one" id="news-one"></div>
+                            <div></div>
+                        </div>
+                        <div class="news-items" id="news-items">
+                            <div class="news-two" id="news-two"></div>
+                            <div></div>
+                        </div>
+                        <div class="news-items" id="news-items">
+                            <div class="news-three" id="news-three"></div>
+                            <div></div>
+                        </div>
+                        <div class="news-items" id="news-items">
+                            <div class="news-four" id="news-four"></div>
+                            <div></div>
+                        </div>
                     </div>
                 </div>
                 <div>
