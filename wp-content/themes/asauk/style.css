@@ -522,6 +522,7 @@ p {
 .second-section .secondary-wrapper .events .events-container {
 	display: flex;
 	flex-direction: row;
+	gap: 10px;
 	height: 399px;
 	justify-content: space-between;
 	margin-top: 30px;
@@ -530,6 +531,7 @@ p {
 .second-section .secondary-wrapper .events .events-container .first-event {
 	display: flex;
 	flex-direction: column;
+	padding: 27px;
 }
 
 .second-section .secondary-wrapper .events .events-container .first-event .first-half {
@@ -550,12 +552,12 @@ p {
 	display: flex;
 	flex-direction: column;
 	justify-content: space-between;
-	width: 60%;
+	width: 55%;
 }
 
 .second-section .secondary-wrapper .events .events-container .first-event .second-half h3 {
 	color: #FFF;
-	width: 100%;
+	width: 104%;
 }
 
 .second-section .secondary-wrapper .events .events-container .first-event .second-half h6 {
@@ -584,6 +586,7 @@ p {
 .second-section .secondary-wrapper .events .events-container .second-event {
 	display: flex;
 	flex-direction: column;
+	padding: 24px;
 }
 
 .second-section .secondary-wrapper .events .events-container .second-event .first-part {
@@ -613,7 +616,7 @@ p {
 
 .second-section .secondary-wrapper .events .events-container .second-event .second-part h3 {
 	color: #FFF;
-	width: 100%;
+	width: 120%;
 }
 
 .second-section .secondary-wrapper .events .events-container .second-event .second-part span {

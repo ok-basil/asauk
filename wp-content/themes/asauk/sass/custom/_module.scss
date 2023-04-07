@@ -353,6 +353,7 @@
             .events-container {
                 display: flex;
                 flex-direction: row;
+                gap: 10px;
                 height: 399px;
                 justify-content: space-between;
                 margin-top: 30px;
@@ -360,6 +361,7 @@
                 .first-event {
                     display: flex;
                     flex-direction: column;
+                    padding: 27px;
 
                     .first-half {
                         display: flex;
@@ -379,11 +381,11 @@
                         display: flex;
                         flex-direction: column;
                         justify-content: space-between;
-                        width: 60%;
+                        width: 55%;
 
                         h3 {
                             color: $primary;
-                            width: 100%;
+                            width: 104%;
                         } 
 
                         h6 {
@@ -414,6 +416,7 @@
                 .second-event {
                     display: flex;
                     flex-direction: column;
+                    padding: 24px;
 
                     .first-part {
                         display: flex;
@@ -441,7 +444,7 @@
 
                         h3 {
                             color: $primary;
-                            width: 100%;
+                            width: 120%;
                         }
 
                         span {
