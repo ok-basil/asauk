@@ -503,6 +503,20 @@
 
                     .news-one {
                         @extend .news-section-container;
+
+                        .news-span-1 {
+                            align-items: center;
+                            background-color: $tertiary;
+                            display: flex;
+                            flex-direction: row;
+                            margin-top: 100px;
+                            height: 24px;
+                            width: 60px;
+
+                            h6 {
+                                color: $primary;
+                            }
+                        }
                     }
 
                     .news-two {                        

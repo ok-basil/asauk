@@ -679,4 +679,18 @@ p {
 	width: 100%;
 }
 
+.second-section .secondary-wrapper .news .news-container .news-items .news-one .news-span-1 {
+	align-items: center;
+	background-color: #EF6D1D;
+	display: flex;
+	flex-direction: row;
+	margin-top: 100px;
+	height: 24px;
+	width: 60px;
+}
+
+.second-section .secondary-wrapper .news .news-container .news-items .news-one .news-span-1 h6 {
+	color: #FFF;
+}
+
 /*# sourceMappingURL=style.css.map */
