@@ -118,7 +118,7 @@
                         </div>
                         <div class="news-items" id="news-items">
                             <div class="news-two" id="news-two" style="background-image: url('<?php echo get_template_directory_uri(); ?> /assets/img/news-2.png')">
-                                <span class=""><h6>Director's Blog</h6></span>
+                                <span class="news-span-2"><h6>Director's Blog</h6></span>
                             </div>
                             <div>
                                 <span><h4>Conflict, Coups and Democracy: The African Union and the Second</h4></span>
@@ -128,7 +128,7 @@
                         </div>
                         <div class="news-items" id="news-items">
                             <div class="news-three" id="news-three" style="background-image: url('<?php echo get_template_directory_uri(); ?> /assets/img/news-3.png')">
-                                <span><h6>African Arguments</h6></span>
+                                <span class="news-span-3"><h6>African Arguments</h6></span>
                             </div>
                             <div>
                                 <span><h4>Key findings from parliamentary for African</h4></span>
@@ -138,7 +138,7 @@
                         </div>
                         <div class="news-items" id="news-items">
                             <div class="news-four" id="news-four" style="background-image: url('<?php echo get_template_directory_uri(); ?> /assets/img/news-4.png')">
-                                <span><h6>African Arguments</h6></span>
+                                <span class="news-span-4"><h6>African Arguments</h6></span>
                             </div>
                             <div>
                                 <span><h4>Conflicts, Coups and Democracy: The African Union and the Second Arab Spring</h4></span>
