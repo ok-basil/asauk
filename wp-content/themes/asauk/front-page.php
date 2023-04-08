@@ -111,7 +111,7 @@
                                 <span class=""><h6>RAS News</h6></span>
                             </div>
                             <div>
-                                <span><h4>Key findings from Parliamentary meeting on UK VISA refusals for African Visitors to the UK</h4></span>
+                                <span><h4>Key findings from parliamentary meeting on UK VISA refusals for African Visitors to the UK</h4></span>
                                 <span></span>
                                 <span></span>
                             </div>
