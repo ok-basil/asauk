@@ -121,7 +121,7 @@
                                 <span class="news-span-2"><h6>Director's Blog</h6></span>
                             </div>
                             <div>
-                                <span><h4>Conflict, Coups and Democracy: The African Union and the Second</h4></span>
+                                <span class="news-title"><h4>Conflict, Coups and Democracy: The African Union and the Second</h4></span>
                                 <span></span>
                                 <span></span>
                             </div>
@@ -131,7 +131,7 @@
                                 <span class="news-span-3"><h6>African Arguments</h6></span>
                             </div>
                             <div>
-                                <span><h4>Key findings from parliamentary for African</h4></span>
+                                <span class="news-title"><h4>Key findings from parliamentary for African</h4></span>
                                 <span></span>
                                 <span></span>
                             </div>
@@ -141,7 +141,7 @@
                                 <span class="news-span-4"><h6>African Arguments</h6></span>
                             </div>
                             <div>
-                                <span><h4>Conflicts, Coups and Democracy: The African Union and the Second Arab Spring</h4></span>
+                                <span class="news-title"><h4>Conflicts, Coups and Democracy: The African Union and the Second Arab Spring</h4></span>
                                 <span></span>
                                 <span></span>
                             </div>
