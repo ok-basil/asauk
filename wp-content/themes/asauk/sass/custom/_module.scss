@@ -541,6 +541,21 @@
 
                     .news-three {
                         @extend .news-section-container;
+
+                        .news-span-3 {
+                            align-items: center;
+                            background-color: $tertiary;
+                            display: flex;
+                            flex-direction: row;
+                            margin-top: 180px;
+                            height: 26px;
+                            width: 133px;
+
+                            h6 {
+                                color: $primary;
+                                margin-left: 3px;
+                            }
+                        }
                     }
 
                     .news-four {

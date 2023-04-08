@@ -709,4 +709,19 @@ p {
 	margin-left: 3px;
 }
 
+.second-section .secondary-wrapper .news .news-container .news-items .news-three .news-span-3 {
+	align-items: center;
+	background-color: #EF6D1D;
+	display: flex;
+	flex-direction: row;
+	margin-top: 180px;
+	height: 26px;
+	width: 133px;
+}
+
+.second-section .secondary-wrapper .news .news-container .news-items .news-three .news-span-3 h6 {
+	color: #FFF;
+	margin-left: 3px;
+}
+
 /*# sourceMappingURL=style.css.map */
