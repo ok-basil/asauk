@@ -110,9 +110,9 @@
                             <div class="news-one" id="news-one" style="background-image: url('<?php echo get_template_directory_uri(); ?> /assets/img/news-1.png')">
                                 <span class="news-span-1"><h6>RAS News</h6></span>
                             </div>
-                            <div>
+                            <div class="col-container">
                                 <span><h4>Key findings from parliamentary meeting on UK VISA refusals for African Visitors to the UK</h4></span>
-                                <span></span>
+                                <span><h6>Eget nulla facilisi etiam dignissim diam quis enim lobortis scelerisque. Eu feugiat pretium nibh ipsum consequat nisl vel pretium. Eget nulla facilisi etiam dignissim diam quis enim.</h6></span>
                                 <span></span>
                             </div>
                         </div>
@@ -120,9 +120,9 @@
                             <div class="news-two" id="news-two" style="background-image: url('<?php echo get_template_directory_uri(); ?> /assets/img/news-2.png')">
                                 <span class="news-span-2"><h6>Director's Blog</h6></span>
                             </div>
-                            <div>
+                            <div class="col-container">
                                 <span class="news-title"><h4>Conflict, Coups and Democracy: The African Union and the Second</h4></span>
-                                <span></span>
+                                <span><h6>Eget nulla facilisi etiam dignissim diam quis enim lobortis scelerisque. Eu feugiat pretium nibh ipsum consequat nisl vel pretium. Eget nulla facilisi etiam dignissim diam quis enim.</h6></span>
                                 <span></span>
                             </div>
                         </div>
@@ -130,9 +130,9 @@
                             <div class="news-three" id="news-three" style="background-image: url('<?php echo get_template_directory_uri(); ?> /assets/img/news-3.png')">
                                 <span class="news-span-3"><h6>African Arguments</h6></span>
                             </div>
-                            <div>
+                            <div class="col-container">
                                 <span class="news-title"><h4>Key findings from parliamentary for African</h4></span>
-                                <span></span>
+                                <span><h6>Eget nulla facilisi etiam dignissim diam quis enim lobortis scelerisque. Eu feugiat pretium nibh ipsum consequat nisl vel pretium. Eget nulla facilisi etiam dignissim diam quis enim.</h6></span>
                                 <span></span>
                             </div>
                         </div>
@@ -140,9 +140,9 @@
                             <div class="news-four" id="news-four" style="background-image: url('<?php echo get_template_directory_uri(); ?> /assets/img/news-4.png')">
                                 <span class="news-span-4"><h6>African Arguments</h6></span>
                             </div>
-                            <div>
+                            <div class="col-container">
                                 <span class="news-title"><h4>Conflicts, Coups and Democracy: The African Union and the Second Arab Spring</h4></span>
-                                <span></span>
+                                <span><h6>Eget nulla facilisi etiam dignissim diam quis enim lobortis scelerisque. Eu feugiat pretium nibh ipsum consequat nisl vel pretium. Eget nulla facilisi etiam dignissim diam quis enim.</h6></span>
                                 <span></span>
                             </div>
                         </div>

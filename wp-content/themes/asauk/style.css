@@ -170,6 +170,11 @@ p {
 	width: 100%;
 }
 
+.col-container {
+	display: flex;
+	flex-direction: column;
+}
+
 .news-section-container, .second-section .secondary-wrapper .news .news-container .news-items .news-one, .second-section .secondary-wrapper .news .news-container .news-items .news-two, .second-section .secondary-wrapper .news .news-container .news-items .news-three, .second-section .secondary-wrapper .news .news-container .news-items .news-four {
 	background-repeat: no-repeat;
 	display: flex;

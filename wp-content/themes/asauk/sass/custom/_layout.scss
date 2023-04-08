@@ -9,9 +9,18 @@
     width: 100%;
 }
 
+.col-container {
+    display: flex;
+    flex-direction: column;
+}
+
 .news-section-container {
     background-repeat: no-repeat;
     display: flex;
     height: 234px;
     width: 234px;
+}
+
+.news-title {
+
 }
