@@ -681,7 +681,6 @@ p {
 .second-section .secondary-wrapper .news .news-container .news-items {
 	display: flex;
 	flex-direction: column;
-	justify-content: space-between;
 	width: 100%;
 }
 
