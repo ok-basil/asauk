@@ -785,4 +785,51 @@ p {
 	margin-left: 3px;
 }
 
+.second-section .secondary-wrapper .community {
+	display: flex;
+	flex-direction: row;
+	margin-top: 100px;
+	position: relative;
+	width: 96%;
+}
+
+.second-section .secondary-wrapper .community .first-half {
+	background-color: #F5F5F5;
+	display: flex;
+	flex-direction: column;
+	height: 436px;
+	position: relative;
+	width: 90%;
+}
+
+.second-section .secondary-wrapper .community .first-half span {
+	background-color: #EF6D1D;
+	border-radius: 80px;
+	display: flex;
+	justify-content: center;
+	margin-top: 20px;
+	width: 220px;
+}
+
+.second-section .secondary-wrapper .community .first-half span button {
+	align-items: center;
+	display: flex;
+	flex-direction: row;
+	gap: 10px;
+}
+
+.second-section .secondary-wrapper .community .first-half span button p {
+	color: #FFF;
+	line-height: 40px;
+}
+
+.second-section .secondary-wrapper .community .second-half {
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: flex;
+	height: 492px;
+	width: 724px;
+	z-index: 1;
+}
+
 /*# sourceMappingURL=style.css.map */

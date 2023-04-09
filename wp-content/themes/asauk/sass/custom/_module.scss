@@ -578,5 +578,52 @@
                 }
             }
         }
+
+        .community {
+            display: flex;
+            flex-direction: row;
+            margin-top: 100px;
+            position: relative;
+            width: 96%;
+
+            .first-half {
+                background-color: #F5F5F5;
+                display: flex;
+                flex-direction: column;
+                height: 436px;
+                position: relative;
+                width: 90%;
+
+                span {
+                    background-color: $tertiary;
+                    border-radius: 80px;
+                    display: flex;
+                    justify-content: center;
+                    margin-top: 20px;
+                    width: 220px;
+
+                    button {
+                        align-items: center;
+                        display: flex;
+                        flex-direction: row;
+                        gap: 10px;
+
+                        p {
+                            color: $primary;
+                            line-height: 40px;
+                        }
+                    }
+                }
+            }
+
+            .second-half {
+                background-repeat: no-repeat;
+                background-size: cover;
+                display: flex;
+                height: 492px;
+                width: 724px;
+                z-index: 1;
+            }
+        }
     }
 }

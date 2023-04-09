@@ -170,9 +170,18 @@
                         </div>
                     </div>
                 </div>
-                <div>
-                    <div></div>
-                    <div></div>
+                <div class="community" id="community">
+                    <div class="first-half">
+                        <h3>JOIN A COMMUNITY THAT WANTS TO GIVE BACK</h3>
+                        <h5>Remember when we were still friends, we could sing our hearts, sing our hearts. Of all the things you held your own, you just kept on drinking, kept on drinking. You are the rain that falls at night, beneath the water colored skies, you are the rain that falls at night, beneath the water colored skies. I knew there was poison in your wine, but your glass is not mine.</h5>
+                        <span>
+                            <button>
+                                <h6>JOIN US</h6>
+                                <span><img src="<?php echo get_template_directory_uri()?> /assets/icons/vector.png" alt="vector"></span>
+                            </button>
+                        </span>
+                    </div>
+                    <div class="second-half" style="background-image: url('<?php echo get_template_directory_uri(); ?> /assets/img/community.png')"></div>
                 </div>
             </div>
         </div>
