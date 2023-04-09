@@ -798,6 +798,7 @@ p {
 	display: flex;
 	flex-direction: column;
 	height: 436px;
+	padding: 50px;
 	position: relative;
 	width: 90%;
 }
@@ -809,11 +810,11 @@ p {
 
 .second-section .secondary-wrapper .community .first-half span {
 	background-color: #EF6D1D;
-	border-radius: 80px;
+	border-radius: 30px;
 	display: flex;
 	justify-content: center;
 	margin-top: 20px;
-	width: 220px;
+	width: 180px;
 }
 
 .second-section .secondary-wrapper .community .first-half span button {
@@ -823,9 +824,10 @@ p {
 	gap: 10px;
 }
 
-.second-section .secondary-wrapper .community .first-half span button p {
+.second-section .secondary-wrapper .community .first-half span button h4 {
 	color: #FFF;
-	line-height: 40px;
+	font-size: 16px !important;
+	line-height: 52px;
 }
 
 .second-section .secondary-wrapper .community .second-half {
