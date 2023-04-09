@@ -182,6 +182,16 @@
         </div>
     </section>
     <section class="third-section">
-        
+        <div class="brand-container">
+            <div class="site-wrapper">
+                <div class="brand-content">
+                    <h2>Our Brands</h2>
+                    <img src="<?php echo get_template_directory_uri()?> /assets/icons/african-arguments.png" alt="african-arguments-logo">
+                    <img src="<?php echo get_template_directory_uri()?> /assets/icons/african-affairss.png" alt="african-affairs-logo">
+                    <img src="<?php echo get_template_directory_uri()?> /assets/icons/film-africa.png" alt="film-africa-logo">
+                    <img src="<?php echo get_template_directory_uri()?> /assets/icons/africa-writes.png" alt="africa-writes-logo">
+                </div>
+            </div>
+        </div>
     </section>
 </main>
