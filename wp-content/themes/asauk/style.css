@@ -787,7 +787,7 @@ p {
 
 .second-section .secondary-wrapper .community {
 	display: flex;
-	flex-direction: row;
+	flex-direction: column;
 	margin-top: 100px;
 	position: relative;
 	width: 96%;
@@ -800,6 +800,11 @@ p {
 	height: 436px;
 	position: relative;
 	width: 90%;
+}
+
+.second-section .secondary-wrapper .community .first-half h3,
+.second-section .secondary-wrapper .community .first-half h5 {
+	width: 40%;
 }
 
 .second-section .secondary-wrapper .community .first-half span {
