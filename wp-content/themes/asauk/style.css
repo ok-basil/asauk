@@ -173,6 +173,7 @@ p {
 .col-container {
 	display: flex;
 	flex-direction: column;
+	width: 234px;
 }
 
 .news-section-container, .second-section .secondary-wrapper .news .news-container .news-items .news-one, .second-section .secondary-wrapper .news .news-container .news-items .news-two, .second-section .secondary-wrapper .news .news-container .news-items .news-three, .second-section .secondary-wrapper .news .news-container .news-items .news-four {
