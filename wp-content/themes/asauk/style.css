@@ -789,6 +789,7 @@ p {
 	display: flex;
 	flex-direction: column;
 	margin-top: 100px;
+	margin-bottom: 100px;
 	position: relative;
 	width: 96%;
 }
@@ -797,15 +798,18 @@ p {
 	background-color: #F5F5F5;
 	display: flex;
 	flex-direction: column;
-	height: 436px;
+	height: 420px;
 	padding: 50px;
 	position: relative;
 	width: 90%;
 }
 
-.second-section .secondary-wrapper .community .first-half h3,
-.second-section .secondary-wrapper .community .first-half h5 {
+.second-section .secondary-wrapper .community .first-half h3 {
 	width: 40%;
+}
+
+.second-section .secondary-wrapper .community .first-half h5 {
+	width: 36%;
 }
 
 .second-section .secondary-wrapper .community .first-half span {
@@ -834,8 +838,10 @@ p {
 	background-repeat: no-repeat;
 	background-size: cover;
 	display: flex;
-	height: 492px;
-	width: 724px;
+	height: 516px;
+	margin-top: -489px;
+	margin-left: 413px;
+	width: 667px;
 	z-index: 1;
 }
 

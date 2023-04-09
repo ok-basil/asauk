@@ -583,6 +583,7 @@
             display: flex;
             flex-direction: column;
             margin-top: 100px;
+            margin-bottom: 100px;
             position: relative;
             width: 96%;
 
@@ -590,14 +591,16 @@
                 background-color: #F5F5F5;
                 display: flex;
                 flex-direction: column;
-                height: 436px;
+                height: 420px;
                 padding: 50px;
                 position: relative;
                 width: 90%;
 
-                h3, 
-                h5 {
+                h3 {
                     width: 40%;
+                }
+                h5 {
+                    width: 36%;
                 }
                 
                 span {
@@ -627,8 +630,10 @@
                 background-repeat: no-repeat;
                 background-size: cover;
                 display: flex;
-                height: 492px;
-                width: 724px;
+                height: 516px;
+                margin-top: -489px;
+                margin-left: 413px;
+                width: 667px;
                 z-index: 1;
             }
         }
