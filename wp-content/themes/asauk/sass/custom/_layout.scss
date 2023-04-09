@@ -46,6 +46,16 @@
         display: flex;
         flex-direction: row;
         gap: 10px;
+
+        a {
+            align-items: center;
+            color: $secondary;
+            display: flex;
+            flex-direction: row;
+            gap: 13px;
+            text-decoration: none;
+            width: 94px;
+        }
     }
 
     .news-date {
