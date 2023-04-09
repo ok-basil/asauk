@@ -28,5 +28,9 @@
 }
 
 .news-content {
-    border-top: 1px solid #BDBD;
+    border-top: 2px solid #BDBD;
+
+    h6 {
+        margin-top: 10px;
+    }
 }

@@ -189,7 +189,11 @@ p {
 }
 
 .news-content {
-	border-top: 1px solid #BDBD;
+	border-top: 2px solid #BDBD;
+}
+
+.news-content h6 {
+	margin-top: 10px;
 }
 
 .nav-menu {
