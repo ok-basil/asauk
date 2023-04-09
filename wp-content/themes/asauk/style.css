@@ -196,6 +196,24 @@ p {
 	margin-top: 10px;
 }
 
+.news-more {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	margin-top: 10px;
+}
+
+.news-more .read-more {
+	align-items: center;
+	display: flex;
+	flex-direction: row;
+	gap: 10px;
+}
+
+.news-more .news-date h6 {
+	color: #828282;
+}
+
 .nav-menu {
 	display: flex;
 	flex-direction: column;
