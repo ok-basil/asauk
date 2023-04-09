@@ -848,13 +848,19 @@ p {
 .third-section .brand-container {
 	background-color: #F2F2F2;
 	display: flex;
+	height: 190px;
 	width: 100%;
 }
 
 .third-section .brand-container .brand-content {
+	align-items: center;
 	display: flex;
 	flex-direction: row;
 	justify-content: space-between;
+}
+
+.third-section .brand-container .brand-content img {
+	object-fit: contain;
 }
 
 /*# sourceMappingURL=style.css.map */

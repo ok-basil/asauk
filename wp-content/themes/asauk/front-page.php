@@ -193,5 +193,8 @@
                 </div>
             </div>
         </div>
+        <div class="newsletter-container">
+            <div class=""></div>
+        </div>
     </section>
 </main>
