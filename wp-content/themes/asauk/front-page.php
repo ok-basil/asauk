@@ -129,7 +129,13 @@
                             <div class="col-container">
                                 <span class="news-title"><h4>Conflict, Coups and Democracy: The African Union and the Second</h4></span>
                                 <span class="news-content"><h6>Eget nulla facilisi etiam dignissim diam quis enim lobortis scelerisque. Eu feugiat pretium nibh ipsum consequat nisl vel pretium. Eget nulla facilisi etiam dignissim diam quis enim.</h6></span>
-                                <span></span>
+                                <span class="news-more">
+                                    <span class="read-more">
+                                        <h6>Read more</h6>
+                                        <h6><img src="<?php echo get_template_directory_uri()?> /assets/icons/arrow.png" alt="arrow"></h6>
+                                    </span>
+                                    <span class="news-date"><h6>30/05/19</h6></span>
+                                </span>                                
                             </div>
                         </div>
                         <div class="news-items" id="news-items">
@@ -139,7 +145,13 @@
                             <div class="col-container">
                                 <span class="news-title"><h4>Key findings from parliamentary for African</h4></span>
                                 <span class="news-content"><h6>Eget nulla facilisi etiam dignissim diam quis enim lobortis scelerisque. Eu feugiat pretium nibh ipsum consequat nisl vel pretium. Eget nulla facilisi etiam dignissim diam quis enim.</h6></span>
-                                <span></span>
+                                <span class="news-more">
+                                    <span class="read-more">
+                                        <h6>Read more</h6>
+                                        <h6><img src="<?php echo get_template_directory_uri()?> /assets/icons/arrow.png" alt="arrow"></h6>
+                                    </span>
+                                    <span class="news-date"><h6>30/05/19</h6></span>
+                                </span>
                             </div>
                         </div>
                         <div class="news-items" id="news-items">
@@ -149,7 +161,13 @@
                             <div class="col-container">
                                 <span class="news-title"><h4>Conflicts, Coups and Democracy: The African Union and the Second Arab Spring</h4></span>
                                 <span class="news-content"><h6>Eget nulla facilisi etiam dignissim diam quis enim lobortis scelerisque. Eu feugiat pretium nibh ipsum consequat nisl vel pretium. Eget nulla facilisi etiam dignissim diam quis enim.</h6></span>
-                                <span></span>
+                                <span class="news-more">
+                                    <span class="read-more">
+                                        <h6>Read more</h6>
+                                        <h6><img src="<?php echo get_template_directory_uri()?> /assets/icons/arrow.png" alt="arrow"></h6>
+                                    </span>
+                                    <span class="news-date"><h6>30/05/19</h6></span>
+                                </span>                            
                             </div>
                         </div>
                     </div>
