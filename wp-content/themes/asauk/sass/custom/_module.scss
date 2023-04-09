@@ -641,5 +641,19 @@
 }
 
 .third-section {
-    
+    .brand-container {
+        background-color: #F2F2F2;
+        display: flex;
+        width: 100%;
+
+        .brand-content {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+
+            img {
+                
+            }
+        }
+    }
 }

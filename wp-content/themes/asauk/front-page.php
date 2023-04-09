@@ -187,7 +187,7 @@
                 <div class="brand-content">
                     <h2>Our Brands</h2>
                     <img src="<?php echo get_template_directory_uri()?> /assets/icons/african-arguments.png" alt="african-arguments-logo">
-                    <img src="<?php echo get_template_directory_uri()?> /assets/icons/african-affairss.png" alt="african-affairs-logo">
+                    <img src="<?php echo get_template_directory_uri()?> /assets/icons/african-affairs.png" alt="african-affairs-logo">
                     <img src="<?php echo get_template_directory_uri()?> /assets/icons/film-africa.png" alt="film-africa-logo">
                     <img src="<?php echo get_template_directory_uri()?> /assets/icons/africa-writes.png" alt="africa-writes-logo">
                 </div>
