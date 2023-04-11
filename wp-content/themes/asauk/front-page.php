@@ -194,7 +194,13 @@
             </div>
         </div>
         <div class="newsletter-container">
-            <div class=""></div>
+            <div class="newsletter-wrapper">
+                <div class="contact-form">
+                    <form class= "form" id="contact-form" method="post" action="">
+                        
+                    </form>
+                </div>
+            </div>
         </div>
     </section>
 </main>
