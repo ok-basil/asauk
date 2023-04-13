@@ -18,7 +18,7 @@
         <div class="site-wrapper">
             <div class="container">
                 <div class="wrapper">
-                    <h1>Support the work of the society</h1>
+                    <h1><?php the_field('banner', $post_id );?></h1>
                     <span><button><p>BECOME A MEMBER</p><img src="<?php echo get_template_directory_uri(); ?> /assets/icons/vector.png" alt="vector"></button></span>
                 </div>                
             </div>
