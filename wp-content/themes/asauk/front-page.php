@@ -192,7 +192,7 @@
             <div class="newsletter-wrapper">
                 <div class="contact-form">
                     <form class= "form" id="contact-form" method="post" action="">
-                        
+                        <?php the_field( 'newsletter', $post_id ); ?>
                     </form>
                 </div>
             </div>
