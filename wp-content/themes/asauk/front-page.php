@@ -190,6 +190,7 @@
         </div>
         <div class="newsletter-container">
             <div class="newsletter-wrapper">
+                <h3>Sign up to our newsletter</h3>
                 <div class="contact-form">
                     <form class= "form" id="contact-form" method="post" action="">
                         <?php the_field( 'newsletter', $post_id ); ?>
