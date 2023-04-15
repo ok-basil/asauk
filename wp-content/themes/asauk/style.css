@@ -930,4 +930,12 @@ p {
 	width: 100%;
 }
 
+.third-section .donate-container .donate-wrapper {
+	width: 30%;
+}
+
+.third-section .donate-container .donate-wrapper h2 {
+	color: #FFF;
+}
+
 /*# sourceMappingURL=style.css.map */

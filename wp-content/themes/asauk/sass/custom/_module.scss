@@ -726,7 +726,11 @@
         width: 100%;
 
         .donate-wrapper {
-            
+            width: 30%;
+
+            h2 {
+                color: $primary;
+            }
         }
     }
 }
