@@ -661,35 +661,41 @@
 
     .newsletter-container {
         background-color: #123234;
-        .contact-form {
-            width: 100%;
 
-            .form {
-                display: flex;
-                flex-direction: row;
-
-                .wpcf7.no-js {
-                    p {
-                        label {
-                            font-size: 18px!important;
-
-                            span.wpcf7-form-control-wrap {
-
-                                input {
-                                    width: 60%;
-                                    background: transparent;
-                                    border: none;
-                                    outline: none;
-                                    border-bottom: 1px solid $primary;
-                                    color: $primary;
-                                    font-size: 18px;
-                                }
-
-                                input:focus,
-                                input:active {
-                                    border-color: none;
-                                    box-shadow: none;
-                                    border: none;
+        .newsletter-wrapper {
+            margin-left: 10%;
+            width: 80%;
+            
+            .contact-form {
+                width: 100%;
+    
+                .form {
+                    display: flex;
+                    flex-direction: row;
+    
+                    .wpcf7.no-js {
+                        p {
+                            label {
+                                font-size: 18px!important;
+    
+                                span.wpcf7-form-control-wrap {
+    
+                                    input {
+                                        width: 60%;
+                                        background: transparent;
+                                        border: none;
+                                        outline: none;
+                                        border-bottom: 1px solid $primary;
+                                        color: $primary;
+                                        font-size: 18px;
+                                    }
+    
+                                    input:focus,
+                                    input:active {
+                                        border-color: none;
+                                        box-shadow: none;
+                                        border: none;
+                                    }
                                 }
                             }
                         }

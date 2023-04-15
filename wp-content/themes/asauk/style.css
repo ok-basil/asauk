@@ -867,20 +867,25 @@ p {
 	background-color: #123234;
 }
 
-.third-section .newsletter-container .contact-form {
+.third-section .newsletter-container .newsletter-wrapper {
+	margin-left: 10%;
+	width: 80%;
+}
+
+.third-section .newsletter-container .newsletter-wrapper .contact-form {
 	width: 100%;
 }
 
-.third-section .newsletter-container .contact-form .form {
+.third-section .newsletter-container .newsletter-wrapper .contact-form .form {
 	display: flex;
 	flex-direction: row;
 }
 
-.third-section .newsletter-container .contact-form .form .wpcf7.no-js p label {
+.third-section .newsletter-container .newsletter-wrapper .contact-form .form .wpcf7.no-js p label {
 	font-size: 18px !important;
 }
 
-.third-section .newsletter-container .contact-form .form .wpcf7.no-js p label span.wpcf7-form-control-wrap input {
+.third-section .newsletter-container .newsletter-wrapper .contact-form .form .wpcf7.no-js p label span.wpcf7-form-control-wrap input {
 	width: 60%;
 	background: transparent;
 	border: none;
@@ -890,8 +895,8 @@ p {
 	font-size: 18px;
 }
 
-.third-section .newsletter-container .contact-form .form .wpcf7.no-js p label span.wpcf7-form-control-wrap input:focus,
-.third-section .newsletter-container .contact-form .form .wpcf7.no-js p label span.wpcf7-form-control-wrap input:active {
+.third-section .newsletter-container .newsletter-wrapper .contact-form .form .wpcf7.no-js p label span.wpcf7-form-control-wrap input:focus,
+.third-section .newsletter-container .newsletter-wrapper .contact-form .form .wpcf7.no-js p label span.wpcf7-form-control-wrap input:active {
 	border-color: none;
 	box-shadow: none;
 	border: none;
