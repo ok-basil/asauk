@@ -863,13 +863,17 @@ p {
 	object-fit: contain;
 }
 
+.third-section .newsletter-container {
+	background-color: #123234;
+}
+
 .third-section .newsletter-container .contact-form {
-	width: 600px;
+	width: 100%;
 }
 
 .third-section .newsletter-container .contact-form .form {
 	display: flex;
-	flex-direction: column;
+	flex-direction: row;
 }
 
 .third-section .newsletter-container .contact-form .form .wpcf7.no-js p label {
@@ -877,7 +881,7 @@ p {
 }
 
 .third-section .newsletter-container .contact-form .form .wpcf7.no-js p label span.wpcf7-form-control-wrap input {
-	width: 100%;
+	width: 60%;
 	background: transparent;
 	border: none;
 	outline: none;
