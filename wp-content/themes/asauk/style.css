@@ -941,4 +941,26 @@ p {
 	width: 30%;
 }
 
+.third-section .donate-container .donate-wrapper span {
+	background-color: #EF6D1D;
+	border-radius: 30px;
+	display: flex;
+	justify-content: center;
+	margin-top: 20px;
+	width: 180px;
+}
+
+.third-section .donate-container .donate-wrapper span button {
+	align-items: center;
+	display: flex;
+	flex-direction: row;
+	gap: 10px;
+}
+
+.third-section .donate-container .donate-wrapper span button h4 {
+	color: #FFF;
+	font-size: 16px !important;
+	line-height: 52px;
+}
+
 /*# sourceMappingURL=style.css.map */

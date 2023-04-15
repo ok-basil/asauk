@@ -201,6 +201,7 @@
         <div class="donate-container" id="donate-container" style="background-image: url('<?php echo get_template_directory_uri(); ?> /assets/img/african-story.png')">
             <div class="donate-wrapper">
                 <h2>Help us tell the African Story</h2>
+                <span><button><h4>DONATE</h4><img src="<?php echo get_template_directory_uri(); ?> /assets/icons/vector.png" alt="vector"></button></span>
             </div>
         </div>
     </section>
