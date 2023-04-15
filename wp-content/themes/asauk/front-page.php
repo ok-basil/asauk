@@ -198,8 +198,10 @@
                 </div>
             </div>
         </div>
-        <div>
-            
+        <div class="donate-container">
+            <div class="donate-wrapper">
+                <h2>Help us tell the African Story</h2>
+            </div>
         </div>
     </section>
 </main>
