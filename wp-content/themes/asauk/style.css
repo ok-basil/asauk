@@ -863,4 +863,17 @@ p {
 	object-fit: contain;
 }
 
+.third-section .newsletter-container .contact-form {
+	width: 600px;
+}
+
+.third-section .newsletter-container .contact-form .form {
+	display: flex;
+	flex-direction: column;
+}
+
+.third-section .newsletter-container .contact-form .form .wpcf7.no-js p label {
+	font-size: 18px !important;
+}
+
 /*# sourceMappingURL=style.css.map */

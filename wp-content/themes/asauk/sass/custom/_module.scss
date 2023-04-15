@@ -660,6 +660,22 @@
     }
 
     .newsletter-container {
-        
+
+        .contact-form {
+            width: 600px;
+
+            .form {
+                display: flex;
+                flex-direction: column;
+
+                .wpcf7.no-js {
+                    p {
+                        label {
+                            font-size: 18px!important;
+                        }
+                    }
+                }
+            }
+        }
     }
 }
