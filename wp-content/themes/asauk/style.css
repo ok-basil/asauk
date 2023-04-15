@@ -946,8 +946,9 @@ p {
 	border-radius: 30px;
 	display: flex;
 	justify-content: center;
+	margin-left: 45%;
 	margin-top: 20px;
-	width: 180px;
+	width: 190px;
 }
 
 .third-section .donate-container .donate-wrapper span button {
