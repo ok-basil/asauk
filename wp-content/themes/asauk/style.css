@@ -872,6 +872,10 @@ p {
 	width: 80%;
 }
 
+.third-section .newsletter-container .newsletter-wrapper h3 {
+	color: #FFF;
+}
+
 .third-section .newsletter-container .newsletter-wrapper .contact-form {
 	width: 100%;
 }
@@ -882,6 +886,7 @@ p {
 }
 
 .third-section .newsletter-container .newsletter-wrapper .contact-form .form .wpcf7.no-js p label {
+	color: #FFF;
 	font-size: 18px !important;
 }
 

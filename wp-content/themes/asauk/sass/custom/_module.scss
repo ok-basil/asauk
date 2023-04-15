@@ -665,6 +665,10 @@
         .newsletter-wrapper {
             margin-left: 10%;
             width: 80%;
+
+            h3 {
+                color: $primary;
+            }
             
             .contact-form {
                 width: 100%;
@@ -676,6 +680,7 @@
                     .wpcf7.no-js {
                         p {
                             label {
+                                color: $primary;
                                 font-size: 18px!important;
     
                                 span.wpcf7-form-control-wrap {
