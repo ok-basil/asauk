@@ -874,6 +874,7 @@ p {
 
 .third-section .newsletter-container .newsletter-wrapper h3 {
 	color: #FFF;
+	font-weight: 300;
 }
 
 .third-section .newsletter-container .newsletter-wrapper .contact-form {
@@ -888,6 +889,7 @@ p {
 .third-section .newsletter-container .newsletter-wrapper .contact-form .form .wpcf7.no-js p label {
 	color: #FFF;
 	font-size: 18px !important;
+	font-weight: 400;
 }
 
 .third-section .newsletter-container .newsletter-wrapper .contact-form .form .wpcf7.no-js p label span.wpcf7-form-control-wrap input {
