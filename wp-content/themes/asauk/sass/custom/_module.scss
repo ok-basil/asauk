@@ -672,6 +672,26 @@
                     p {
                         label {
                             font-size: 18px!important;
+
+                            span.wpcf7-form-control-wrap {
+
+                                input {
+                                    width: 100%;
+                                    background: transparent;
+                                    border: none;
+                                    outline: none;
+                                    border-bottom: 1px solid $primary;
+                                    color: $primary;
+                                    font-size: 18px;
+                                }
+
+                                input:focus,
+                                input:active {
+                                    border-color: none;
+                                    box-shadow: none;
+                                    border: none;
+                                }
+                            }
                         }
                     }
                 }

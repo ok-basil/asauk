@@ -876,4 +876,21 @@ p {
 	font-size: 18px !important;
 }
 
+.third-section .newsletter-container .contact-form .form .wpcf7.no-js p label span.wpcf7-form-control-wrap input {
+	width: 100%;
+	background: transparent;
+	border: none;
+	outline: none;
+	border-bottom: 1px solid #FFF;
+	color: #FFF;
+	font-size: 18px;
+}
+
+.third-section .newsletter-container .contact-form .form .wpcf7.no-js p label span.wpcf7-form-control-wrap input:focus,
+.third-section .newsletter-container .contact-form .form .wpcf7.no-js p label span.wpcf7-form-control-wrap input:active {
+	border-color: none;
+	box-shadow: none;
+	border: none;
+}
+
 /*# sourceMappingURL=style.css.map */
