@@ -682,28 +682,35 @@
     
                     .wpcf7.no-js {
                         p {
-                            label {
-                                color: $primary;
-                                font-size: 18px!important;
-                                font-weight: 400;
-    
-                                span.wpcf7-form-control-wrap {
-    
-                                    input {
-                                        width: 60%;
-                                        background: transparent;
-                                        border: none;
-                                        outline: none;
-                                        border-bottom: 1px solid $primary;
-                                        color: $primary;
-                                        font-size: 18px;
-                                    }
-    
-                                    input:focus,
-                                    input:active {
-                                        border-color: none;
-                                        box-shadow: none;
-                                        border: none;
+                            .newsletter-form {
+                                .select-newsletter,
+                                .first-name,
+                                .last-name,
+                                .email {
+                                    color: $primary;
+                                    display: flex;
+                                    flex-direction: column;
+                                    font-size: 18px!important;
+                                    font-weight: 400;
+        
+                                    span.wpcf7-form-control-wrap {
+        
+                                        input {
+                                            width: 60%;
+                                            background: transparent;
+                                            border: none;
+                                            outline: none;
+                                            border-bottom: 1px solid $primary;
+                                            color: $primary;
+                                            font-size: 18px;
+                                        }
+        
+                                        input:focus,
+                                        input:active {
+                                            border-color: none;
+                                            box-shadow: none;
+                                            border: none;
+                                        }
                                     }
                                 }
                             }

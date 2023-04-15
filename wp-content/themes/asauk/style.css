@@ -888,13 +888,21 @@ p {
 	flex-direction: row;
 }
 
-.third-section .newsletter-container .newsletter-wrapper .contact-form .form .wpcf7.no-js p label {
+.third-section .newsletter-container .newsletter-wrapper .contact-form .form .wpcf7.no-js p .newsletter-form .select-newsletter,
+.third-section .newsletter-container .newsletter-wrapper .contact-form .form .wpcf7.no-js p .newsletter-form .first-name,
+.third-section .newsletter-container .newsletter-wrapper .contact-form .form .wpcf7.no-js p .newsletter-form .last-name,
+.third-section .newsletter-container .newsletter-wrapper .contact-form .form .wpcf7.no-js p .newsletter-form .email {
 	color: #FFF;
+	display: flex;
+	flex-direction: column;
 	font-size: 18px !important;
 	font-weight: 400;
 }
 
-.third-section .newsletter-container .newsletter-wrapper .contact-form .form .wpcf7.no-js p label span.wpcf7-form-control-wrap input {
+.third-section .newsletter-container .newsletter-wrapper .contact-form .form .wpcf7.no-js p .newsletter-form .select-newsletter span.wpcf7-form-control-wrap input,
+.third-section .newsletter-container .newsletter-wrapper .contact-form .form .wpcf7.no-js p .newsletter-form .first-name span.wpcf7-form-control-wrap input,
+.third-section .newsletter-container .newsletter-wrapper .contact-form .form .wpcf7.no-js p .newsletter-form .last-name span.wpcf7-form-control-wrap input,
+.third-section .newsletter-container .newsletter-wrapper .contact-form .form .wpcf7.no-js p .newsletter-form .email span.wpcf7-form-control-wrap input {
 	width: 60%;
 	background: transparent;
 	border: none;
@@ -904,8 +912,14 @@ p {
 	font-size: 18px;
 }
 
-.third-section .newsletter-container .newsletter-wrapper .contact-form .form .wpcf7.no-js p label span.wpcf7-form-control-wrap input:focus,
-.third-section .newsletter-container .newsletter-wrapper .contact-form .form .wpcf7.no-js p label span.wpcf7-form-control-wrap input:active {
+.third-section .newsletter-container .newsletter-wrapper .contact-form .form .wpcf7.no-js p .newsletter-form .select-newsletter span.wpcf7-form-control-wrap input:focus,
+.third-section .newsletter-container .newsletter-wrapper .contact-form .form .wpcf7.no-js p .newsletter-form .select-newsletter span.wpcf7-form-control-wrap input:active,
+.third-section .newsletter-container .newsletter-wrapper .contact-form .form .wpcf7.no-js p .newsletter-form .first-name span.wpcf7-form-control-wrap input:focus,
+.third-section .newsletter-container .newsletter-wrapper .contact-form .form .wpcf7.no-js p .newsletter-form .first-name span.wpcf7-form-control-wrap input:active,
+.third-section .newsletter-container .newsletter-wrapper .contact-form .form .wpcf7.no-js p .newsletter-form .last-name span.wpcf7-form-control-wrap input:focus,
+.third-section .newsletter-container .newsletter-wrapper .contact-form .form .wpcf7.no-js p .newsletter-form .last-name span.wpcf7-form-control-wrap input:active,
+.third-section .newsletter-container .newsletter-wrapper .contact-form .form .wpcf7.no-js p .newsletter-form .email span.wpcf7-form-control-wrap input:focus,
+.third-section .newsletter-container .newsletter-wrapper .contact-form .form .wpcf7.no-js p .newsletter-form .email span.wpcf7-form-control-wrap input:active {
 	border-color: none;
 	box-shadow: none;
 	border: none;
