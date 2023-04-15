@@ -931,11 +931,13 @@ p {
 }
 
 .third-section .donate-container .donate-wrapper {
-	width: 30%;
+	width: 100%;
 }
 
 .third-section .donate-container .donate-wrapper h2 {
 	color: #FFF;
+	margin-left: 35%;
+	width: 30%;
 }
 
 /*# sourceMappingURL=style.css.map */
