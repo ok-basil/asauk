@@ -31,6 +31,30 @@ function asauk_customize_register( $wp_customize ) {
 			)
 		);
 	}
+
+	/**
+	 * Add our Footer Panel
+	 */
+	$wp_customize->add_panel( 'footer_navigation_panel',
+		array(
+			'title' 		=> __( 'Footer Navigation' ),
+			'description'	=> esc_html__('Adjust your Footer Navigation Section'),
+			'priority'		=> 160,
+		) 
+	);
+
+	/**
+	 * Add our Footer Section
+	 */
+	$wp_customize->add_section( 'footer_section',
+		array(
+			'title'			=> __( 'Footer Section' ),
+			'description'	=> esc_html__( 'This is where the footer section resides' ),
+			'panel'			=> 'footer_navigation_panel',
+		)	
+	);
+
+	
 }
 add_action( 'customize_register', 'asauk_customize_register' );
 
