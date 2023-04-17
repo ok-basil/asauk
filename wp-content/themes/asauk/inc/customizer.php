@@ -106,7 +106,19 @@ function asauk_customize_register( $wp_customize ) {
 	/**
 	 * Adding our footer address controls
 	 */
-	
+	$wp_customize->add_control( 'footer_address', 
+		array(
+			'label'				=>__( 'Footer Address' ),
+			'description'		=> esc_html__( 'Enter the footer address here' ),
+			'section'			=> 'footer_section',
+			'type'				=> 'textarea',
+			'input_attrs'		=> array(
+				'class'			=> 'address_field',
+				'style'			=> 'border: 1px solid purple',
+				'placeholder'	=>__( 'Input address' ),
+			)
+		)
+	);
 }
 add_action( 'customize_register', 'asauk_customize_register' );
 
