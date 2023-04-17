@@ -76,7 +76,20 @@ function asauk_customize_register( $wp_customize ) {
 		) 
 	);
 
-	
+	/**
+	 * Adding our footer contact email setting
+	 */
+	$wp_customize->add_setting ( 'footer_contact_email' );
+
+	/**
+	 * Adding the footer contact email controls
+	 */
+	$wp_customize->add_control( 'footer_contact_email', 
+		array(
+			'label'				=>__('Footer Contact Email'),
+			'description'		=> esc_html__( 'Enter the footer contact email address here' ),
+			
+		))
 }
 add_action( 'customize_register', 'asauk_customize_register' );
 
