@@ -98,6 +98,14 @@ function asauk_customize_register( $wp_customize ) {
 		)
 	);
 
+	/**
+	 * Adding our footer address setting
+	 */
+	$wp_customize->add_setting( 'footer_address' );
+
+	/**
+	 * Adding our footer address controls
+	 */
 	
 }
 add_action( 'customize_register', 'asauk_customize_register' );
