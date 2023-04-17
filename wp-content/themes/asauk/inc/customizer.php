@@ -88,8 +88,17 @@ function asauk_customize_register( $wp_customize ) {
 		array(
 			'label'				=>__('Footer Contact Email'),
 			'description'		=> esc_html__( 'Enter the footer contact email address here' ),
-			
-		))
+			'section'			=> 'footer_section',
+			'type'				=> 'textarea',
+			'input_attrs'		=> array(
+				'class'			=> 'address_field',
+				'style'			=> 'border: 1px solid purple',
+				'placeholder'	=>__( 'Input email address' ),
+			)
+		)
+	);
+
+	
 }
 add_action( 'customize_register', 'asauk_customize_register' );
 
