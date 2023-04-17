@@ -54,6 +54,28 @@ function asauk_customize_register( $wp_customize ) {
 		)	
 	);
 
+	/**
+	 * Add our footer mission setting
+	 */
+	$wp_customize->add_setting ( 'footer_mission' );
+
+	/**
+	 * Adding our controls
+	 */
+	$wp_customize->add_control ('footer_mission',
+		array(
+			'label'				=>__('Footer Mission'),
+			'description'		=> esc_html__( 'Enter the mission here' ),
+			'section'			=> 'footer_section',
+			'type'				=> 'textarea',
+			'input_attrs'		=> array(
+				'class'			=> 'address_field',
+				'style'			=> 'border: 1px solid purple',
+				'placeholder'	=>__('Input the mission statement'),
+			)
+		) 
+	);
+
 	
 }
 add_action( 'customize_register', 'asauk_customize_register' );
