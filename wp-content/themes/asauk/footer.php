@@ -33,7 +33,13 @@
 						<div class="our-mission">
 							<h5><?php echo get_theme_mod('footer_mission'); ?></h5>
 						</div>
-						<div class="contact-us"></div>
+						<div class="contact-us">
+							<h4>Contact Us</h4>
+							<span>
+								<h5>e-mail</h5>
+								<p><?php echo get_theme_mod('footer_contact_email'); ?></p>
+							</span>
+						</div>
 						<div class="quick-links"></div>
 						<div class="follow-us"></div>
 					</div>
