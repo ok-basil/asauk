@@ -30,8 +30,8 @@
 			<div class="first-footer">
 				<div class="footer-wrapper">
 					<div class="footer-container">
-						<div></div>
-						<div></div>
+						<div class="our-mission"></div>
+						<div class="contact-us"></div>
 						<div></div>
 						<div></div>
 					</div>
