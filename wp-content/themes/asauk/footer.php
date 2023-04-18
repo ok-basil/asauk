@@ -39,6 +39,10 @@
 								<h5>e-mail</h5>
 								<p><?php echo get_theme_mod('footer_contact_email'); ?></p>
 							</span>
+							<span>
+								<h5>address</h5>
+								<p><?php echo get_theme_mod('footer_address'); ?></p>
+							</span>
 						</div>
 						<div class="quick-links"></div>
 						<div class="follow-us"></div>
