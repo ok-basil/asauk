@@ -32,8 +32,8 @@
 					<div class="footer-container">
 						<div class="our-mission"></div>
 						<div class="contact-us"></div>
-						<div></div>
-						<div></div>
+						<div class="quick-links"></div>
+						<div class="follow-us"></div>
 					</div>
 				</div>
 			</div>
