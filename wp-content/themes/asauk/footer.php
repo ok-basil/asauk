@@ -28,7 +28,14 @@
 
 		<footer class="footer-section" id="footer-section">
 			<div class="first-footer">
-
+				<div class="footer-wrapper">
+					<div class="footer-container">
+						<div></div>
+						<div></div>
+						<div></div>
+						<div></div>
+					</div>
+				</div>
 			</div>
 			<div class="second-footer">
 				
