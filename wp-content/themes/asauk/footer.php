@@ -30,7 +30,9 @@
 			<div class="first-footer">
 				<div class="footer-wrapper">
 					<div class="footer-container">
-						<div class="our-mission"><?php echo get_theme_mod('footer_mission'); ?></div>
+						<div class="our-mission">
+							<h5><?php echo get_theme_mod('footer_mission'); ?></h5>
+						</div>
 						<div class="contact-us"></div>
 						<div class="quick-links"></div>
 						<div class="follow-us"></div>
