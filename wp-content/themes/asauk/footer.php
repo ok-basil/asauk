@@ -50,7 +50,7 @@
 				</div>
 			</div>
 			<div class="second-footer">
-				
+				<div></div>
 			</div>
 		</footer>
 	</footer><!-- #colophon -->
