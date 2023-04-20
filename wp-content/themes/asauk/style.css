@@ -1004,11 +1004,13 @@ p {
 .footer-section .first-footer .footer-container .quick-links {
 	display: flex;
 	flex-direction: column;
+	width: 14%;
 }
 
 .footer-section .first-footer .footer-container .follow-us {
 	display: flex;
 	flex-direction: column;
+	width: 14%;
 }
 
 .footer-section .second-footer {
