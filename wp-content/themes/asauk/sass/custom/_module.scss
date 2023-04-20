@@ -772,5 +772,19 @@
         background-color: #123234;
         height: 445px;
         
+        .footer-container {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+
+            .our-mission {
+                display: flex;
+                flex-direction: column;
+            }
+
+            .contact-us {
+                displa
+            }
+        }
     }
 }
