@@ -31,7 +31,8 @@
 				<div class="footer-wrapper">
 					<div class="footer-container">
 						<div class="our-mission">
-							<h5><?php echo get_theme_mod('footer_mission'); ?></h5>
+							<h5>Our Mission</h5>
+							<p><?php echo get_theme_mod('footer_mission'); ?></p>
 						</div>
 						<div class="contact-us">
 							<h4>Contact Us</h4>
