@@ -45,8 +45,12 @@
 								<p><?php echo get_theme_mod('footer_address'); ?></p>
 							</span>
 						</div>
-						<div class="quick-links"></div>
-						<div class="follow-us"></div>
+						<div class="quick-links">
+							<h5>Quick Links</h5>
+						</div>
+						<div class="follow-us">
+							<h5>Follow Us</h5>
+						</div>
 					</div>
 				</div>
 			</div>
