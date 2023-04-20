@@ -225,7 +225,8 @@ p {
 }
 
 .footer-wrapper {
-	width: 90%;
+	margin-left: 8%;
+	width: 80%;
 }
 
 .nav-menu {
@@ -985,16 +986,19 @@ p {
 	display: flex;
 	flex-direction: row;
 	justify-content: space-between;
+	padding-top: 90px;
 }
 
 .footer-section .first-footer .footer-container .our-mission {
 	display: flex;
 	flex-direction: column;
+	width: 37%;
 }
 
 .footer-section .first-footer .footer-container .contact-us {
 	display: flex;
 	flex-direction: column;
+	width: 14%;
 }
 
 .footer-section .first-footer .footer-container .quick-links {

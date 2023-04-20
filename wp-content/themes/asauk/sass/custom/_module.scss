@@ -777,15 +777,18 @@
             display: flex;
             flex-direction: row;
             justify-content: space-between;
+            padding-top: 90px;
 
             .our-mission {
                 display: flex;
                 flex-direction: column;
+                width: 37%;
             }
 
             .contact-us {
                 display: flex;
                 flex-direction: column;
+                width: 14%;
             }
 
             .quick-links {
