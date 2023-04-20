@@ -1006,4 +1006,9 @@ p {
 	flex-direction: column;
 }
 
+.footer-section .second-footer {
+	background-color: #0B2B2D;
+	height: 62px;
+}
+
 /*# sourceMappingURL=style.css.map */
