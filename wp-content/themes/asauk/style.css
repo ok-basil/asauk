@@ -983,9 +983,25 @@ p {
 .footer-section .first-footer .footer-container {
 	display: flex;
 	flex-direction: row;
+	justify-content: space-between;
 }
 
 .footer-section .first-footer .footer-container .our-mission {
+	display: flex;
+	flex-direction: column;
+}
+
+.footer-section .first-footer .footer-container .contact-us {
+	display: flex;
+	flex-direction: column;
+}
+
+.footer-section .first-footer .footer-container .quick-links {
+	display: flex;
+	flex-direction: column;
+}
+
+.footer-section .first-footer .footer-container .follow-us {
 	display: flex;
 	flex-direction: column;
 }

@@ -783,7 +783,18 @@
             }
 
             .contact-us {
-                displa
+                display: flex;
+                flex-direction: column;
+            }
+
+            .quick-links {
+                display: flex;
+                flex-direction: column;
+            }
+
+            .follow-us {
+                display: flex;
+                flex-direction: column;
             }
         }
     }
