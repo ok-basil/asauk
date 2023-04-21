@@ -991,6 +991,7 @@ p {
 
 .footer-section .first-footer .footer-container h4 {
 	font-size: 30px;
+	margin-bottom: 30px;
 }
 
 .footer-section .first-footer .footer-container .our-mission {
@@ -1022,6 +1023,15 @@ p {
 	display: flex;
 	flex-direction: column;
 	width: 16%;
+}
+
+.footer-section .first-footer .footer-container .quick-links .list-menu a {
+	color: #FFF;
+}
+
+.footer-section .first-footer .footer-container .quick-links .list-menu p {
+	font-size: 14px;
+	margin-bottom: 10px;
 }
 
 .footer-section .first-footer .footer-container .follow-us {
