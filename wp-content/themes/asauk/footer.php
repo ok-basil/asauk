@@ -54,9 +54,10 @@
 									'container'			=>	'',
 									'before'			=>	'<p>',
 									'after'				=>	'</p>',
-									
+									'items_wrap'		=>	'<ul class="list-menu"%3$s</ul>'
 								)
-							)
+							);
+							?>
 						</div>
 						<div class="follow-us">
 							<h5>Follow Us</h5>
