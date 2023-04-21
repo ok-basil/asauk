@@ -62,6 +62,9 @@
 						</div>
 						<div class="follow-us">
 							<h4>Follow Us</h4>
+							<span>
+								<img src="<?php echo get_template_directory_uri(); ?> /assets/icons/facebook.png" alt="facebook">
+							</span>
 						</div>
 					</div>
 				</div>
