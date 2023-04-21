@@ -779,6 +779,10 @@
             justify-content: space-between;
             padding-top: 90px;
 
+            h4 {
+                font-size: 30px;
+            }
+
             .our-mission {
                 display: flex;
                 flex-direction: column;
@@ -795,6 +799,10 @@
                 display: flex;
                 flex-direction: column;
                 width: 14%;
+
+                ul {
+                    
+                }
             }
 
             .follow-us {

@@ -31,7 +31,7 @@
 				<div class="footer-wrapper">
 					<div class="footer-container">
 						<div class="our-mission">
-							<h5>Our Mission</h5>
+							<h4>Our Mission</h4>
 							<p><?php echo get_theme_mod('footer_mission'); ?></p>
 						</div>
 						<div class="contact-us">
@@ -46,7 +46,7 @@
 							</span>
 						</div>
 						<div class="quick-links">
-							<h5>Quick Links</h5>
+							<h4>Quick Links</h4>
 							<?php
 							wp_nav_menu(
 								array(
@@ -60,7 +60,7 @@
 							?>
 						</div>
 						<div class="follow-us">
-							<h5>Follow Us</h5>
+							<h4>Follow Us</h4>
 						</div>
 					</div>
 				</div>

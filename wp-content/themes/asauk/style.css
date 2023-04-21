@@ -989,6 +989,10 @@ p {
 	padding-top: 90px;
 }
 
+.footer-section .first-footer .footer-container h4 {
+	font-size: 30px;
+}
+
 .footer-section .first-footer .footer-container .our-mission {
 	display: flex;
 	flex-direction: column;
