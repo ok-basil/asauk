@@ -787,18 +787,31 @@
                 display: flex;
                 flex-direction: column;
                 width: 37%;
+
+                p {
+                    font-size: 16px!important;
+                }
             }
 
             .contact-us {
                 display: flex;
                 flex-direction: column;
-                width: 14%;
+                width: 16%;
+
+                h5 {
+                    color: #FFFFFF80;
+                    font-size: 12px!important;
+                }
+
+                p {
+                    font-size: 14px!important;
+                }
             }
 
             .quick-links {
                 display: flex;
                 flex-direction: column;
-                width: 14%;
+                width: 16%;
 
                 ul {
                     
@@ -808,7 +821,7 @@
             .follow-us {
                 display: flex;
                 flex-direction: column;
-                width: 14%;
+                width: 16%;
             }
         }
     }
