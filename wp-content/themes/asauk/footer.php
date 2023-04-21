@@ -74,7 +74,14 @@
 				</div>
 			</div>
 			<div class="second-footer">
-				<div></div>
+				<div class="second-footer-container">
+					<span><p>© 2023 Royal African Society ltd - All rights reserved.</p></span>
+					<ul>
+						<li><a href="#">Privacy Policy</a></li>
+						<li><a href="#">Terms of Use</a></li>
+						<li><a href="#">Privacy Policy</a></li>
+					</span>
+				</div>
 			</div>
 		</footer>
 	</footer><!-- #colophon -->
