@@ -64,6 +64,10 @@
 							<h4>Follow Us</h4>
 							<span>
 								<img src="<?php echo get_template_directory_uri(); ?> /assets/icons/facebook.png" alt="facebook">
+								<img src="<?php echo get_template_directory_uri(); ?> /assets/icons/instagram.png" alt="instagram">
+								<img src="<?php echo get_template_directory_uri(); ?> /assets/icons/youtube.png" alt="youtube">
+								<img src="<?php echo get_template_directory_uri(); ?> /assets/icons/twitter.png" alt="twitter">
+								<img src="<?php echo get_template_directory_uri(); ?> /assets/icons/mixcloud.png" alt="mixcloud">
 							</span>
 						</div>
 					</div>

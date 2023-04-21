@@ -1040,6 +1040,17 @@ p {
 	width: 16%;
 }
 
+.footer-section .first-footer .footer-container .follow-us span {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 28px;
+	width: 100%;
+}
+
+.footer-section .first-footer .footer-container .follow-us span img {
+	object-fit: contain;
+}
+
 .footer-section .second-footer {
 	background-color: #0B2B2D;
 	height: 62px;
