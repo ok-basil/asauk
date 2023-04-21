@@ -849,5 +849,11 @@
         background-color: #0B2B2D;
         height: 62px;
         
+        .second-footer-container {
+            align-items: center;
+            display: flex;
+            flex-direction: row;
+            
+        }
     }
 }

@@ -1056,4 +1056,10 @@ p {
 	height: 62px;
 }
 
+.footer-section .second-footer .second-footer-container {
+	align-items: center;
+	display: flex;
+	flex-direction: row;
+}
+
 /*# sourceMappingURL=style.css.map */
