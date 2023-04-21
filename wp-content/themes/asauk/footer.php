@@ -47,6 +47,16 @@
 						</div>
 						<div class="quick-links">
 							<h5>Quick Links</h5>
+							<?php
+							wp_nav_menu(
+								array(
+									'theme_location'	=>	'footer-menu-1',
+									'container'			=>	'',
+									'before'			=>	'<p>',
+									'after'				=>	'</p>',
+									
+								)
+							)
 						</div>
 						<div class="follow-us">
 							<h5>Follow Us</h5>
