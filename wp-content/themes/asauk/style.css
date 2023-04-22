@@ -261,12 +261,16 @@ p {
 	width: 100%;
 }
 
+.nav-menu .top-nav ul p a {
+	color: #000;
+}
+
 .nav-menu .top-nav ul li {
 	font-size: 14px;
 }
 
 .nav-menu .top-nav ul li a {
-	color: #000;
+	color: #000 !important;
 }
 
 .nav-menu .menu-container {
