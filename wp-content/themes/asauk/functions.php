@@ -49,8 +49,9 @@ function asauk_setup() {
 	// This theme uses wp_nav_menu() in one location.
 	register_nav_menus(
 		array(
-			'primary-menu' => esc_html__( 'Primary', 'asauk' ),
-			'footer-menu'  => esc_html__( 'Footer Menu', 'asauk'),
+			'primary-menu-2'	=> esc_html__( 'Primary 2', 'asauk'),
+			'primary-menu' 		=> esc_html__( 'Primary', 'asauk' ),
+			'footer-menu'  		=> esc_html__( 'Footer Menu', 'asauk'),
 		)
 	);
 

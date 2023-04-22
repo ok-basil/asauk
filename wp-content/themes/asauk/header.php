@@ -30,11 +30,17 @@
 			<div class="container" id="container">
 				<div class="site-wrapper">
 					<div class="top-nav" id="top-nav">
-						<ul>
-							<li><a href="#">Contact Us</a></li>
-							<li><a href="#">Member's Login</a></li>
-							<li><a href="#">Search</a></li>
-						</ul>
+						<?php
+						wp_nav_menu(
+							array(
+								'theme_location'	=>	'primary-menu-2',
+								'container'			=>	'',
+								'before'			=>	'<p>',
+								'after'				=>	'</p>',
+								'items_wrap'		=>	'<ul class="top-menu"%3$s</ul>'
+							)
+						);
+						?>
 					</div>
 				</div>
 			</div>
