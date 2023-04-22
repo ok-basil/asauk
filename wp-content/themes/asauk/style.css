@@ -1062,4 +1062,9 @@ p {
 	flex-direction: row;
 }
 
+.footer-section .second-footer .second-footer-container ul {
+	display: flex;
+	flex-direction: row;
+}
+
 /*# sourceMappingURL=style.css.map */
