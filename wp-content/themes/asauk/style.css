@@ -1060,11 +1060,19 @@ p {
 	align-items: center;
 	display: flex;
 	flex-direction: row;
+	margin-left: 27%;
+	gap: 30px;
 }
 
 .footer-section .second-footer .second-footer-container ul {
+	align-items: center;
 	display: flex;
 	flex-direction: row;
+}
+
+.footer-section .second-footer .second-footer-container ul a {
+	color: #FFF;
+	font-size: 12px !important;
 }
 
 /*# sourceMappingURL=style.css.map */
