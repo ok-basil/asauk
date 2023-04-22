@@ -855,15 +855,27 @@
             flex-direction: row;
             margin-left: 27%;
             gap: 30px;
+            padding-top: 22px;
+
+            span {
+                align-items: center;
+                margin-top: 7px;
+
+                p {
+                    font-size: 11px!important;
+                }
+            }
             
             ul {
                 align-items: center;
                 display: flex;
                 flex-direction: row;
+                gap: 5px;
 
                 a {
                     color: $primary;
-                    font-size: 12px!important;
+                    font-size: 11px!important;
+                    text-decoration: underline;
                 }
             }
         }

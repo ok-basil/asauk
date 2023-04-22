@@ -1062,17 +1062,29 @@ p {
 	flex-direction: row;
 	margin-left: 27%;
 	gap: 30px;
+	padding-top: 22px;
+}
+
+.footer-section .second-footer .second-footer-container span {
+	align-items: center;
+	margin-top: 7px;
+}
+
+.footer-section .second-footer .second-footer-container span p {
+	font-size: 11px !important;
 }
 
 .footer-section .second-footer .second-footer-container ul {
 	align-items: center;
 	display: flex;
 	flex-direction: row;
+	gap: 5px;
 }
 
 .footer-section .second-footer .second-footer-container ul a {
 	color: #FFF;
-	font-size: 12px !important;
+	font-size: 11px !important;
+	text-decoration: underline;
 }
 
 /*# sourceMappingURL=style.css.map */
