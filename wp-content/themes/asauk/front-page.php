@@ -154,7 +154,7 @@
                             </div>
                             <div class="col-container">
                                 <span class="news-title"><h4>Conflicts, Coups and Democracy: The African Union and the Second Arab Spring</h4></span>
-                                <span class="news-content"><h6>Eget nulla facilis etiam dignissim diam quis enim lobortis scelerisque. Eu feugiat pretium nibh ipsum consequat nisl vel pretium. Eget nulla facilisi etiam dignissim diam quis enim.</h6></span>
+                                <span class="news-content"><h6>Eget nulla facilisi etiam dignissim diam quis enim lobortis scelerisque. Eu feugiat pretium nibh ipsum consequat nisl vel pretium. Eget nulla facilisi etiam dignissim diam quis enim.</h6></span>
                                 <span class="news-more">
                                     <span class="read-more">
                                         <a href="#"><h6>Read more</h6>
