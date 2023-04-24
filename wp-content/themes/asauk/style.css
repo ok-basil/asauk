@@ -301,9 +301,10 @@ p {
 }
 
 .nav-menu .menu-container .navbar .navbar-list .menu-list {
+	align-items: center;
 	display: flex;
 	flex-direction: row;
-	gap: 20px;
+	gap: 8px;
 }
 
 .nav-menu .menu-container .navbar .navbar-list .menu-list li {
@@ -314,6 +315,32 @@ p {
 
 .nav-menu .menu-container .navbar .navbar-list .menu-list li a {
 	color: #FFF;
+}
+
+.nav-menu .menu-container .navbar .navbar-list .menu-list li:nth-of-type(6) {
+	align-items: center;
+	background-color: #EF6D1D;
+	border-radius: 80px;
+	display: flex;
+	height: 39px;
+	width: 160px;
+}
+
+.nav-menu .menu-container .navbar .navbar-list .menu-list li:nth-of-type(6) a {
+	margin-left: 13px !important;
+}
+
+.nav-menu .menu-container .navbar .navbar-list .menu-list li:nth-of-type(7) {
+	align-items: center;
+	background-color: #123234;
+	border-radius: 80px;
+	display: flex;
+	height: 39px;
+	width: 90px;
+}
+
+.nav-menu .menu-container .navbar .navbar-list .menu-list li:nth-of-type(7) a {
+	margin-left: 13px !important;
 }
 
 .first-section {
