@@ -678,6 +678,7 @@ p {
 
 .second-section .secondary-wrapper .events .events-container .first-event .second-half span button h4 {
 	color: #FFF;
+	font-weight: 100;
 	line-height: 40px;
 }
 
@@ -737,6 +738,7 @@ p {
 
 .second-section .secondary-wrapper .events .events-container .second-event .second-part span button h4 {
 	color: #FFF;
+	font-weight: 100;
 	line-height: 40px;
 }
 
