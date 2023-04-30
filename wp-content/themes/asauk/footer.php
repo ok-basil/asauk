@@ -75,7 +75,7 @@
 			</div>
 			<div class="second-footer">
 				<div class="second-footer-container">
-					<span><p>© 2023 Royal African Society ltd - All rights reserved.</p></span>
+					<span><p>© 2022 Royal African Society ltd - All rights reserved.</p></span>
 					<ul>
 						<li><a href="#">Privacy Policy</a></li>
 						<li><a href="#">Terms of Use</a></li>
