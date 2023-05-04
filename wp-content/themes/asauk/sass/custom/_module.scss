@@ -924,7 +924,23 @@
         height: 189px;
 
         .site-main {
-            
+            .entry-content {
+                .um.um-login.um-238.uimob500 {
+                    .um-form {
+                        form {
+                            .um-row._um_row_1 {
+                                .um-col-1 {
+                                    #um_field_238_username {
+                                        .um-field-label {
+                                            color: white;
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
         }
     }
 }
