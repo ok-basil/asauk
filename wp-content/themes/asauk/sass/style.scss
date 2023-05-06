@@ -35,7 +35,7 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 
 //Import Custom Styles
 
-//This is where I import all of my fonts and styles
+//This is where I import all of my fonts
 @font-face {
 	font-family: "Brown";
 
@@ -119,6 +119,8 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 	font-style: normal;
 	font-display: swap;
 }
+
+//This is where I import my styles
 
 @import "./custom/base";
 @import "./custom/layout";
