@@ -78,7 +78,7 @@
                         <div class="first-event" id="first-event" style="background-image: url('<?php echo get_template_directory_uri(); ?> /assets/img/events-1.png')">
                             <div class="first-half" id="first-half">
                                 <span class="date"><h6>When-30/05/19</h6></span>
-                                <span><h6>Volunteering!</h6></span>
+                                <span><h6>Volunteering</h6></span>
                             </div>
                             <div class="second-half" id="second-half">
                                 <h3>South Africa <br> Pre-election Briefing</h3>
