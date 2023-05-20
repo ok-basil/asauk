@@ -88,7 +88,7 @@
                         </div>
                         <div class="second-event" id="second-event" style="background-image: url('<?php echo get_template_directory_uri(); ?> /assets/img/events-2.png')">
                             <div class="first-part" id="first-part">
-                                <span class="date"><h6>When-30/05/19</h6></span>
+                                <span class="date"><h6>When-30/05/20</h6></span>
                                 <span><h6>Fund Raiser</h6></span>
                             </div>
                             <div class="second-part" id="second-part">
